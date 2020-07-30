@@ -863,7 +863,9 @@
 		{"name": "海盗宝箱", "id": [12573, "311D"], "internal_name": "Ftr_12573", "price": 80000},
 		{"name": "海盗木桶", "id": [12574, "311E"], "internal_name": "Ftr_12574", "price": 800},
 		{"name": "动物森友会Nintendo Switch", "id": [12579, "3123"], "internal_name": "Ftr_12579", "price": 35960},
-		{"name": "世界地图", "id": [12741, "31C5"], "internal_name": "Ftr_12741", "price": 640}
+		{"name": "世界地图", "id": [12741, "31C5"], "internal_name": "Ftr_12741", "price": 640},
+		{"name": "牛仔竞技风弹簧游乐器材", "id": [12921, "3279"], "internal_name": "Ftr_12921", "price": 2000},
+		{"name": "梦美的床铺", "id": [13221, "33A5"], "internal_name": "Ftr_13221", "price": 3600}
 	],
 	"STR_ItemName_01_Art": [
 		{"name": "优美的名画", "id": [2, "0002"], "internal_name": "Picture_00002", "price": 4980},
@@ -2163,7 +2165,8 @@
 		{"name": "茶色婚礼墙", "id": [12468, "30B4"], "internal_name": "RoomWall_12468", "price": 3000},
 		{"name": "绿色婚礼墙", "id": [12469, "30B5"], "internal_name": "RoomWall_12469", "price": 3000},
 		{"name": "人鱼壁纸", "id": [12566, "3116"], "internal_name": "RoomWall_12566", "price": 94080, "DiyRecipe": [729, "02D9"]},
-		{"name": "海盗壁纸", "id": [12567, "3117"], "internal_name": "RoomWall_12567", "price": 3000}
+		{"name": "海盗壁纸", "id": [12567, "3117"], "internal_name": "RoomWall_12567", "price": 3000},
+		{"name": "烟花大会墙", "id": [13230, "33AE"], "internal_name": "RoomWall_13230", "price": 3000}
 	],
 	"STR_ItemName_51_RoomFloor": [
 		{"name": "地下室地板", "id": [4797, "12BD"], "internal_name": "RoomFloor_04797", "price": 6000, "DiyRecipe": [474, "01DA"]},
@@ -2480,7 +2483,8 @@
 		{"name": "白色婚礼地毯", "id": [12464, "30B0"], "internal_name": "Rug_12464", "price": 1500},
 		{"name": "红色婚礼地毯", "id": [12465, "30B1"], "internal_name": "Rug_12465", "price": 1500},
 		{"name": "人鱼地毯", "id": [12563, "3113"], "internal_name": "Rug_12563", "price": 41440, "DiyRecipe": [728, "02D8"]},
-		{"name": "海盗地毯", "id": [12564, "3114"], "internal_name": "Rug_12564", "price": 1500}
+		{"name": "海盗地毯", "id": [12564, "3114"], "internal_name": "Rug_12564", "price": 1500},
+		{"name": "月之地毯", "id": [13287, "33E7"], "internal_name": "Rug_13287", "price": 2000}
 	],
 	"STR_ItemName_61_HouseDoorDeco": [
 		{"name": "波斯菊花环", "id": [4293, "10C5"], "internal_name": "DoorDeco_04293", "price": 2880, "DiyRecipe": [227, "00E3"]},
@@ -2617,11 +2621,13 @@
 		{"name": "邮寄箱", "id": [4245, "1095"], "internal_name": "QuestWrapping_04245", "price": 0},
 		{"name": "桥梁用地工具组", "id": [4310, "10D6"], "internal_name": "HousingKitBirdge_04310", "price": 40},
 		{"name": "坡道用地工具组", "id": [4311, "10D7"], "internal_name": "HousingKit_04311", "price": 40},
+		{"name": "肥皂泡", "id": [4386, "1122"], "internal_name": "BlowBubble_04386", "price": 150},
 		{"name": "裁缝屋的施工告示牌", "id": [4411, "113B"], "internal_name": "HousingKit_04411", "price": 40},
 		{"name": "礼物", "id": [4480, "1180"], "internal_name": "DummyPresentbox_04480", "price": 888},
 		{"name": "鱼饲料", "id": [4549, "11C5"], "internal_name": "FishBait_04549", "price": 800, "DiyRecipe": [191, "00BF"]},
 		{"name": "包裹", "id": [4645, "1225"], "internal_name": "DummyCardboard_04645", "price": 888},
 		{"name": "露营地施工工具组", "id": [5166, "142E"], "internal_name": "HousingKit_05166", "price": 66600, "DiyRecipe": [461, "01CD"]},
+		{"name": "扇子", "id": [5319, "14C7"], "internal_name": "Uchiwa_05319", "price": 800},
 		{"name": "陶笛", "id": [5320, "14C8"], "internal_name": "Ocarina_05320", "price": 4000, "DiyRecipe": [218, "00DA"]},
 		{"name": "<name>搬迁工具组", "id": [5357, "14ED"], "internal_name": "HousingKit_05357", "price": 40},
 		{"name": "搬迁工具组", "id": [5358, "14EE"], "internal_name": "HousingKit_05358", "price": 40},
@@ -2634,6 +2640,9 @@
 		{"name": "挑战！DIY手册", "id": [5604, "15E4"], "internal_name": "DummyRecipe_05604", "price": 2680},
 		{"name": "竟然能这样？！DIY", "id": [5605, "15E5"], "internal_name": "DummyRecipe_05605", "price": 6980},
 		{"name": "荧光棒", "id": [5741, "166D"], "internal_name": "StickLight_05741", "price": 1500},
+		{"name": "派对吹笛", "id": [5742, "166E"], "internal_name": "Partyhorn_05742", "price": 800},
+		{"name": "红色烟花棒", "id": [5743, "166F"], "internal_name": "FierworkHand_05743", "price": 600},
+		{"name": "纸风车", "id": [5744, "1670"], "internal_name": "Windmill_05744", "price": 800},
 		{"name": "瓶中信", "id": [5793, "16A1"], "internal_name": "MessageBottle_05793", "price": 800},
 		{"name": "盖房子工具组·1号地", "id": [5827, "16C3"], "internal_name": "HousingKitRcoQuest_05827", "price": 888},
 		{"name": "盖房子工具组·2号地", "id": [5828, "16C4"], "internal_name": "HousingKitRcoQuest_05828", "price": 888},
@@ -2673,6 +2682,7 @@
 		{"name": "礼物", "id": [7712, "1E20"], "internal_name": "DummyWrapping_07712", "price": 888},
 		{"name": "礼物", "id": [7713, "1E21"], "internal_name": "DummyWrapping_07713", "price": 888},
 		{"name": "礼物", "id": [7714, "1E22"], "internal_name": "DummyWrapping_07714", "price": 888},
+		{"name": "蓝色气球", "id": [7869, "1EBD"], "internal_name": "Balloon_07869", "price": 600},
 		{"name": "道路施工许可证·石板路", "id": [8773, "2245"], "internal_name": "LicenseItem_08773", "price": 40000},
 		{"name": "道路施工许可证·砖块路", "id": [8774, "2246"], "internal_name": "LicenseItem_08774", "price": 40000},
 		{"name": "道路施工许可证·黑土路", "id": [8775, "2247"], "internal_name": "LicenseItem_08775", "price": 40000},
@@ -2699,7 +2709,16 @@
 		{"name": "我的设计专业版", "id": [12185, "2F99"], "internal_name": "DummyHowtoBook_12185", "price": 16000},
 		{"name": "简陋斧头的DIY手册", "id": [12294, "3006"], "internal_name": "DummyDIYRecipe_12294", "price": 280},
 		{"name": "梯子的DIY手册", "id": [12327, "3027"], "internal_name": "DummyDIYRecipe_12327", "price": 500},
-		{"name": "蛋瓶中信", "id": [12544, "3100"], "internal_name": "MessageBottle_12544", "price": 888}
+		{"name": "蛋瓶中信", "id": [12544, "3100"], "internal_name": "MessageBottle_12544", "price": 888},
+		{"name": "蓝色烟花棒", "id": [12974, "32AE"], "internal_name": "FierworkHand_12974", "price": 600},
+		{"name": "地面烟花筒", "id": [13106, "3332"], "internal_name": "FireworkM_13106", "price": 600},
+		{"name": "地面烟花筒的灰烬", "id": [13107, "3333"], "internal_name": "Trash_13107", "price": 40},
+		{"name": "红色气球", "id": [13123, "3343"], "internal_name": "Balloon_13123", "price": 600},
+		{"name": "黄色气球", "id": [13124, "3344"], "internal_name": "Balloon_13124", "price": 600},
+		{"name": "绿色气球", "id": [13125, "3345"], "internal_name": "Balloon_13125", "price": 600},
+		{"name": "粉红色气球", "id": [13126, "3346"], "internal_name": "Balloon_13126", "price": 600},
+		{"name": "Nook Inc.手持三角旗", "id": [13128, "3348"], "internal_name": "HandheldPennant_13128", "price": 10000},
+		{"name": "梦境铃钱兑换券", "id": [13228, "33AC"], "internal_name": "MilePlaneTicket_13228", "price": 20000}
 	],
 	"STR_ItemName_81_Event": [
 		{"name": "遗失物", "id": [2374, "0946"], "internal_name": "LostQuest_02374", "price": 0},
@@ -4142,6 +4161,7 @@
 		{"name": "菱格缝线束口双肩包", "color": "森林", "id": [12153, "2F79"], "price": 700},
 		{"name": "菱格缝线束口双肩包", "color": "花朵", "id": [12148, "2F74"], "price": 700},
 		{"name": "菱格缝线束口双肩包", "color": "小鸡", "id": [12154, "2F7A"], "price": 700},
+		{"name": "葡萄采收桶", "color": "棕色", "id": [12797, "31FD"], "price": 800},
 		{"name": "藤编斜挎包", "color": "棕色", "id": [7488, "1D40"], "price": 980},
 		{"name": "虫虫观察箱", "color": "绿色", "id": [7479, "1D37"], "price": 490},
 		{"name": "蝴蝶双肩包", "color": "粉红", "id": [7502, "1D4E"], "price": 840},
@@ -4988,6 +5008,10 @@
 		{"name": "单车头盔", "color": "海军蓝", "id": [10219, "27EB"], "price": 1100},
 		{"name": "单车头盔", "color": "蓝色", "id": [5282, "14A2"], "price": 1100},
 		{"name": "厨师帽", "color": "白色", "id": [5140, "1414"], "price": 840},
+		{"name": "发光星星头饰", "color": "黄色", "id": [2611, "0A33"], "price": 980},
+		{"name": "发光爱心头饰", "color": "粉红", "id": [9859, "2683"], "price": 980},
+		{"name": "发光球头饰", "color": "绿色", "id": [9857, "2681"], "price": 980},
+		{"name": "发光花朵头饰", "color": "蓝色", "id": [9858, "2682"], "price": 980},
 		{"name": "发夹", "color": "粉红", "id": [9860, "2684"], "price": 490},
 		{"name": "变形虫图腾头巾", "color": "蓝色", "id": [10760, "2A08"], "price": 700},
 		{"name": "变形虫图腾头巾", "color": "黄色", "id": [10761, "2A09"], "price": 700},
@@ -5441,6 +5465,7 @@
 		{"name": "发带", "color": "绿色", "id": [11896, "2E78"], "price": 1400},
 		{"name": "发带", "color": "粉红", "id": [6093, "17CD"], "price": 1400},
 		{"name": "叶子面具", "color": "绿色", "id": [7291, "1C7B"], "price": 800, "DiyRecipe": [635, "027B"]},
+		{"name": "图坦卡门面具", "color": "金色", "id": [5607, "15E7"], "price": 200000, "DiyRecipe": [716, "02CC"]},
 		{"name": "头戴式耳机", "color": "蓝色", "id": [5682, "1632"], "price": 770},
 		{"name": "头戴式耳机", "color": "粉红", "id": [11536, "2D10"], "price": 770},
 		{"name": "头戴式耳机", "color": "橘色", "id": [11537, "2D11"], "price": 770},
@@ -6130,6 +6155,7 @@
 		{"name": "牛仔背带裤装", "color": "红色", "id": [9474, "2502"], "price": 1600},
 		{"name": "牛仔背带裤装", "color": "黑色", "id": [9475, "2503"], "price": 1600},
 		{"name": "牛仔背带裤装", "color": "棕色", "id": [9469, "24FD"], "price": 1600},
+		{"name": "牛郎服", "color": "蓝色", "id": [13240, "33B8"], "price": 2500},
 		{"name": "牵牛花浴衣", "color": "水蓝色", "id": [5823, "16BF"], "price": 2280},
 		{"name": "牵牛花浴衣", "color": "淡绿色", "id": [9000, "2328"], "price": 2280},
 		{"name": "牵牛花浴衣", "color": "蓝紫色", "id": [9001, "2329"], "price": 2280},
@@ -6235,6 +6261,7 @@
 		{"name": "红型染服装", "color": "黄色", "id": [10908, "2A9C"], "price": 2520},
 		{"name": "纯白晚礼服", "color": "白色", "id": [12497, "30D1"], "price": 12000},
 		{"name": "纯白洋装", "color": "白色", "id": [3336, "0D08"], "price": 20000},
+		{"name": "织女服", "color": "红色", "id": [13239, "33B7"], "price": 2500},
 		{"name": "绒毛连帽上衣", "color": "紫色", "id": [7981, "1F2D"], "price": 1800},
 		{"name": "绒毛连帽上衣", "color": "灰色", "id": [7982, "1F2E"], "price": 1800},
 		{"name": "绒毛连帽上衣", "color": "粉红", "id": [7983, "1F2F"], "price": 1800},
