@@ -1,0 +1,2 @@
+Place all .sarc.zs files you dumped from the game into this directory.  
+For extracting item IDs you need all the archives which start with `String_` in their name. Each file contains multiple .msbt files and is a single language.
