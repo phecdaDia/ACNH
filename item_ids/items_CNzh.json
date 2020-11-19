@@ -81,6 +81,7 @@
 		{"name": "咖啡磨豆机", "id": [920, "0398"], "internal_name": "Ftr_00920", "price": 2200},
 		{"name": "厨房挂钩", "id": [928, "03A0"], "internal_name": "Ftr_00928", "price": 3000},
 		{"name": "空调", "id": [929, "03A1"], "internal_name": "Ftr_00929", "price": 63000},
+		{"name": "丰饶之角", "id": [931, "03A3"], "internal_name": "Ftr_00931", "price": 10000},
 		{"name": "飞镖靶", "id": [937, "03A9"], "internal_name": "Ftr_00937", "price": 5200},
 		{"name": "DJ台", "id": [941, "03AD"], "internal_name": "Ftr_00941", "price": 9300},
 		{"name": "音效机柜", "id": [950, "03B6"], "internal_name": "Ftr_00950", "price": 6800},
@@ -93,6 +94,8 @@
 		{"name": "竖琴", "id": [987, "03DB"], "internal_name": "Ftr_00987", "price": 130000},
 		{"name": "线香盘", "id": [997, "03E5"], "internal_name": "Ftr_00997", "price": 880},
 		{"name": "岛式厨房", "id": [998, "03E6"], "internal_name": "Ftr_00998", "price": 170000},
+		{"name": "门松", "id": [1004, "03EC"], "internal_name": "Ftr_01004", "price": 2580},
+		{"name": "镜饼", "id": [1005, "03ED"], "internal_name": "Ftr_01005", "price": 1800},
 		{"name": "落叶", "id": [1023, "03FF"], "internal_name": "Ftr_01023", "price": 5200, "DiyRecipe": [586, "024A"]},
 		{"name": "矮屏风", "id": [1029, "0405"], "internal_name": "Ftr_01029", "price": 870},
 		{"name": "杂志架", "id": [1032, "0408"], "internal_name": "Ftr_01032", "price": 2760, "DiyRecipe": [413, "019D"]},
@@ -872,8 +875,36 @@
 		{"name": "梦美的床铺", "id": [13221, "33A5"], "internal_name": "Ftr_13221", "price": 3600},
 		{"name": "万圣节挂饰", "id": [13222, "33A6"], "internal_name": "Ftr_13222", "price": 6600, "DiyRecipe": [734, "02DE"]},
 		{"name": "万圣节桌上布置", "id": [13223, "33A7"], "internal_name": "Ftr_13223", "price": 6600, "DiyRecipe": [735, "02DF"]},
+		{"name": "圣诞雪橇", "id": [13241, "33B9"], "internal_name": "Ftr_13241", "price": 80000},
+		{"name": "遥控直升机", "id": [13242, "33BA"], "internal_name": "Ftr_13242", "price": 3600},
+		{"name": "狗狗玩偶", "id": [13243, "33BB"], "internal_name": "Ftr_13243", "price": 2400},
+		{"name": "礼物堆", "id": [13244, "33BC"], "internal_name": "Ftr_13244", "price": 2640, "DiyRecipe": [750, "02EE"]},
+		{"name": "圣诞树干蛋糕", "id": [13245, "33BD"], "internal_name": "Ftr_13245", "price": 1200},
+		{"name": "立体绘本", "id": [13246, "33BE"], "internal_name": "Ftr_13246", "price": 2000},
+		{"name": "铁皮机器人", "id": [13247, "33BF"], "internal_name": "Ftr_13247", "price": 3500},
+		{"name": "圣诞壁挂式袜子", "id": [13248, "33C0"], "internal_name": "Ftr_13248", "price": 2000},
+		{"name": "儿童帐篷", "id": [13249, "33C1"], "internal_name": "Ftr_13249", "price": 4500},
+		{"name": "迷你赛车场", "id": [13250, "33C2"], "internal_name": "Ftr_13250", "price": 3800},
+		{"name": "恐龙玩具", "id": [13251, "33C3"], "internal_name": "Ftr_13251", "price": 2400},
+		{"name": "娃娃屋", "id": [13252, "33C4"], "internal_name": "Ftr_13252", "price": 4000},
 		{"name": "Ring-Con", "id": [13293, "33ED"], "internal_name": "Ftr_13293", "price": 4950},
-		{"name": "南瓜王的肖像画", "id": [13353, "3429"], "internal_name": "Ftr_13353", "price": 8000}
+		{"name": "南瓜王的肖像画", "id": [13353, "3429"], "internal_name": "Ftr_13353", "price": 8000},
+		{"name": "感恩节盆栽架", "id": [13447, "3487"], "internal_name": "Ftr_13447", "price": 3600, "DiyRecipe": [740, "02E4"]},
+		{"name": "感恩节壁炉", "id": [13448, "3488"], "internal_name": "Ftr_13448", "price": 13000, "DiyRecipe": [741, "02E5"]},
+		{"name": "感恩节装饰", "id": [13449, "3489"], "internal_name": "Ftr_13449", "price": 2000, "DiyRecipe": [742, "02E6"]},
+		{"name": "感恩节椅", "id": [13450, "348A"], "internal_name": "Ftr_13450", "price": 2200, "DiyRecipe": [743, "02E7"]},
+		{"name": "感恩节桌", "id": [13453, "348D"], "internal_name": "Ftr_13453", "price": 4500, "DiyRecipe": [745, "02E9"]},
+		{"name": "掷柶游戏", "id": [13459, "3493"], "internal_name": "Ftr_13459", "price": 1300},
+		{"name": "12粒葡萄", "id": [13462, "3496"], "internal_name": "Ftr_13462", "price": 1200},
+		{"name": "柏林果酱面包", "id": [13463, "3497"], "internal_name": "Ftr_13463", "price": 1200},
+		{"name": "牛摆饰", "id": [13490, "34B2"], "internal_name": "Ftr_13490", "price": 1600},
+		{"name": "2021年拱门", "id": [13543, "34E7"], "internal_name": "Ftr_13543", "price": 2021},
+		{"name": "跨年荞麦面", "id": [13797, "35E5"], "internal_name": "Ftr_13797", "price": 1300},
+		{"name": "奥利维耶沙拉", "id": [13799, "35E7"], "internal_name": "Ftr_13799", "price": 1000},
+		{"name": "感恩节砂锅炖菜", "id": [13818, "35FA"], "internal_name": "Ftr_13818", "price": 7000, "DiyRecipe": [747, "02EB"]},
+		{"name": "感恩节麦子装饰", "id": [13819, "35FB"], "internal_name": "Ftr_13819", "price": 800, "DiyRecipe": [748, "02EC"]},
+		{"name": "感恩节桌上布置", "id": [13820, "35FC"], "internal_name": "Ftr_13820", "price": 4000, "DiyRecipe": [749, "02ED"]},
+		{"name": "壁挂式袜子", "id": [13930, "366A"], "internal_name": "Ftr_13930", "price": 2000}
 	],
 	"STR_ItemName_01_Art": [
 		{"name": "优美的名画", "id": [2, "0002"], "internal_name": "Picture_00002", "price": 4980},
@@ -2197,7 +2228,10 @@
 		{"name": "人鱼壁纸", "id": [12566, "3116"], "internal_name": "RoomWall_12566", "price": 94080, "DiyRecipe": [729, "02D9"]},
 		{"name": "海盗壁纸", "id": [12567, "3117"], "internal_name": "RoomWall_12567", "price": 3000},
 		{"name": "万圣节墙", "id": [13224, "33A8"], "internal_name": "RoomWall_13224", "price": 12000},
-		{"name": "烟花大会墙", "id": [13230, "33AE"], "internal_name": "RoomWall_13230", "price": 3000}
+		{"name": "烟花大会墙", "id": [13230, "33AE"], "internal_name": "RoomWall_13230", "price": 3000},
+		{"name": "感恩节墙", "id": [13318, "3406"], "internal_name": "RoomWall_13318", "price": 3000},
+		{"name": "下雪墙", "id": [13603, "3523"], "internal_name": "RoomWall_13603", "price": 10800, "DiyRecipe": [752, "02F0"]},
+		{"name": "极光墙", "id": [13609, "3529"], "internal_name": "RoomWall_13609", "price": 7000}
 	],
 	"STR_ItemName_51_RoomFloor": [
 		{"name": "地下室地板", "id": [4797, "12BD"], "internal_name": "RoomFloor_04797", "price": 6000, "DiyRecipe": [474, "01DA"]},
@@ -2378,7 +2412,8 @@
 		{"name": "绿色婚礼地板", "id": [12434, "3092"], "internal_name": "RoomFloor_12434", "price": 3000},
 		{"name": "人鱼地板", "id": [12568, "3118"], "internal_name": "RoomFloor_12568", "price": 83900, "DiyRecipe": [730, "02DA"]},
 		{"name": "海盗地板", "id": [12569, "3119"], "internal_name": "RoomFloor_12569", "price": 3000},
-		{"name": "万圣节地板", "id": [13225, "33A9"], "internal_name": "RoomFloor_13225", "price": 12000}
+		{"name": "万圣节地板", "id": [13225, "33A9"], "internal_name": "RoomFloor_13225", "price": 12000},
+		{"name": "感恩节地板", "id": [13319, "3407"], "internal_name": "RoomFloor_13319", "price": 3000}
 	],
 	"STR_ItemName_52_RoomRug": [
 		{"name": "粉红色爱心地毯", "id": [7322, "1C9A"], "internal_name": "Rug_07322", "price": 1500},
@@ -2463,6 +2498,7 @@
 		{"name": "橘色简约地垫S", "id": [7541, "1D75"], "internal_name": "Rug_07541", "price": 1000},
 		{"name": "紫色简约地垫S", "id": [7542, "1D76"], "internal_name": "Rug_07542", "price": 1000},
 		{"name": "黑色简约地垫S", "id": [7543, "1D77"], "internal_name": "Rug_07543", "price": 1000},
+		{"name": "圣诞节地毯", "id": [7544, "1D78"], "internal_name": "Rug_07544", "price": 6000, "DiyRecipe": [746, "02EA"]},
 		{"name": "万圣节地毯", "id": [7545, "1D79"], "internal_name": "Rug_07545", "price": 8000},
 		{"name": "复活节地毯", "id": [7546, "1D7A"], "internal_name": "Rug_07546", "price": 9600, "DiyRecipe": [709, "02C5"]},
 		{"name": "白色爱心地毯", "id": [7578, "1D9A"], "internal_name": "Rug_07578", "price": 1500},
@@ -2510,6 +2546,7 @@
 		{"name": "浅色竹子地垫", "id": [11113, "2B69"], "internal_name": "Rug_11113", "price": 9600, "DiyRecipe": [671, "029F"]},
 		{"name": "深色竹子地垫", "id": [11114, "2B6A"], "internal_name": "Rug_11114", "price": 3840, "DiyRecipe": [672, "02A0"]},
 		{"name": "铃钱袋地毯", "id": [12214, "2FB6"], "internal_name": "Rug_12214", "price": 24000},
+		{"name": "夏天贝壳地毯", "id": [12217, "2FB9"], "internal_name": "Rug_12217", "price": 28800, "DiyRecipe": [757, "02F5"]},
 		{"name": "Nook Inc.植物图案地毯", "id": [12325, "3025"], "internal_name": "Rug_12325", "price": 20000},
 		{"name": "Nook Inc.正方形地毯", "id": [12396, "306C"], "internal_name": "Rug_12396", "price": 12000},
 		{"name": "水蓝色婚礼地毯", "id": [12462, "30AE"], "internal_name": "Rug_12462", "price": 1500},
@@ -2517,7 +2554,9 @@
 		{"name": "红色婚礼地毯", "id": [12465, "30B1"], "internal_name": "Rug_12465", "price": 1500},
 		{"name": "人鱼地毯", "id": [12563, "3113"], "internal_name": "Rug_12563", "price": 41440, "DiyRecipe": [728, "02D8"]},
 		{"name": "海盗地毯", "id": [12564, "3114"], "internal_name": "Rug_12564", "price": 1500},
-		{"name": "月之地毯", "id": [13287, "33E7"], "internal_name": "Rug_13287", "price": 2000}
+		{"name": "月之地毯", "id": [13287, "33E7"], "internal_name": "Rug_13287", "price": 2000},
+		{"name": "感恩节地毯", "id": [13525, "34D5"], "internal_name": "Rug_13525", "price": 2000},
+		{"name": "向日葵地毯", "id": [13596, "351C"], "internal_name": "Rug_13596", "price": 1500}
 	],
 	"STR_ItemName_61_HouseDoorDeco": [
 		{"name": "波斯菊花环", "id": [4293, "10C5"], "internal_name": "DoorDeco_04293", "price": 2880, "DiyRecipe": [227, "00E3"]},
@@ -2562,7 +2601,9 @@
 		{"name": "深色郁金香花环", "id": [5771, "168B"], "internal_name": "DoorDeco_05771", "price": 6400, "DiyRecipe": [362, "016A"]},
 		{"name": "蓝色玫瑰花环", "id": [5772, "168C"], "internal_name": "DoorDeco_05772", "price": 80000, "DiyRecipe": [447, "01BF"]},
 		{"name": "金色玫瑰花环", "id": [5820, "16BC"], "internal_name": "DoorDeco_05820", "price": 80000, "DiyRecipe": [449, "01C1"]},
-		{"name": "复活节花环", "id": [12517, "30E5"], "internal_name": "DoorDeco_12517", "price": 9600, "DiyRecipe": [707, "02C3"]}
+		{"name": "复活节花环", "id": [12517, "30E5"], "internal_name": "DoorDeco_12517", "price": 9600, "DiyRecipe": [707, "02C3"]},
+		{"name": "圣诞节花环", "id": [13357, "342D"], "internal_name": "DoorDeco_13357", "price": 1500},
+		{"name": "注连绳装饰", "id": [13501, "34BD"], "internal_name": "DoorDeco_13501", "price": 2000}
 	],
 	"STR_ItemName_62_HousePost": [
 		{"name": "普通信箱", "id": [2571, "0A0B"], "internal_name": "HousePost_02571", "price": 0},
@@ -2635,7 +2676,8 @@
 		{"name": "射手座碎片", "id": [5996, "176C"], "internal_name": "StarPiece_05996", "price": 2000},
 		{"name": "枫叶", "id": [7374, "1CCE"], "internal_name": "AutumnLeaf_07374", "price": 800},
 		{"name": "手机壳改造工具组", "id": [8760, "2238"], "internal_name": "CraftPhoneCase_08760", "price": 36000},
-		{"name": "珍珠", "id": [12968, "32A8"], "internal_name": "CraftMaterial_12968", "price": 40000}
+		{"name": "珍珠", "id": [12968, "32A8"], "internal_name": "CraftMaterial_12968", "price": 40000},
+		{"name": "口袋露营广场手机壳", "id": [13439, "347F"], "internal_name": "CraftPhoneCase_13439", "price": 2000}
 	],
 	"STR_ItemName_80_Etc": [
 		{"name": "陷阱种子", "id": [2578, "0A12"], "internal_name": "PitFallSeed_02578", "price": 560, "DiyRecipe": [264, "0108"]},
@@ -2753,7 +2795,16 @@
 		{"name": "Nook Inc.手持三角旗", "id": [13128, "3348"], "internal_name": "HandheldPennant_13128", "price": 10000},
 		{"name": "梦境铃钱兑换券", "id": [13228, "33AC"], "internal_name": "MilePlaneTicket_13228", "price": 20000},
 		{"name": "变身！身体彩绘", "id": [13256, "33C8"], "internal_name": "DummyHowtoBook_13256", "price": 48000},
-		{"name": "看看！彩色隐形眼镜", "id": [13257, "33C9"], "internal_name": "DummyHowtoBook_13257", "price": 48000}
+		{"name": "看看！彩色隐形眼镜", "id": [13257, "33C9"], "internal_name": "DummyHowtoBook_13257", "price": 48000},
+		{"name": "转移工具组", "id": [13346, "3422"], "internal_name": "HousingKit_13346", "price": 40},
+		{"name": "时下最潮！反应图鉴", "id": [13610, "352A"], "internal_name": "DummyHowtoBook_13610", "price": 54000},
+		{"name": "更多！发型×6", "id": [13766, "35C6"], "internal_name": "DummyHowtoBook_13766", "price": 36000},
+		{"name": "多彩多姿感恩节DIY", "id": [13787, "35DB"], "internal_name": "DummyRecipe_13787", "price": 19800},
+		{"name": "圣诞包装纸", "id": [13792, "35E0"], "internal_name": "WrappingPaper_13792", "price": 1200, "DiyRecipe": [751, "02EF"]},
+		{"name": "礼物", "id": [13793, "35E1"], "internal_name": "DummyWrapping_13793", "price": 888},
+		{"name": "气泡饮料", "id": [13835, "360B"], "internal_name": "JuiceFuzzyapple_13835", "price": 1000},
+		{"name": "礼物袋", "id": [13836, "360C"], "internal_name": "BigbagPresent_13836", "price": 888},
+		{"name": "某人的礼物", "id": [13869, "362D"], "internal_name": "QuestChristmasPresentbox_13869", "price": 888}
 	],
 	"STR_ItemName_81_Event": [
 		{"name": "遗失物", "id": [2374, "0946"], "internal_name": "LostQuest_02374", "price": 0},
@@ -2786,7 +2837,15 @@
 		{"name": "爱的结晶", "id": [12546, "3102"], "internal_name": "LoveCrystal_12546", "price": 400},
 		{"name": "通信装置", "id": [13105, "3331"], "internal_name": "PirateQuest_13105", "price": 888},
 		{"name": "棒棒糖", "id": [13196, "338C"], "internal_name": "Candy_13196", "price": 480},
-		{"name": "糖果", "id": [13197, "338D"], "internal_name": "Candy_13197", "price": 120}
+		{"name": "糖果", "id": [13197, "338D"], "internal_name": "Candy_13197", "price": 120},
+		{"name": "法式煎鱼排", "id": [13779, "35D3"], "internal_name": "HarvestDish_13779", "price": 888},
+		{"name": "奶汁烤菜", "id": [13780, "35D4"], "internal_name": "HarvestDish_13780", "price": 888},
+		{"name": "蛤蜊浓汤", "id": [13781, "35D5"], "internal_name": "HarvestDish_13781", "price": 888},
+		{"name": "南瓜派", "id": [13782, "35D6"], "internal_name": "HarvestDish_13782", "price": 888},
+		{"name": "クラムチャウダーHaPu", "id": [13800, "35E8"], "internal_name": "HarvestDish_13800", "price": 888},
+		{"name": "パンプキンパイHaPu", "id": [13801, "35E9"], "internal_name": "HarvestDish_13801", "price": 888},
+		{"name": "サカナのムニエルHaPu", "id": [13802, "35EA"], "internal_name": "HarvestDish_13802", "price": 888},
+		{"name": "グラタンHaPu", "id": [13803, "35EB"], "internal_name": "HarvestDish_13803", "price": 888}
 	],
 	"STR_ItemName_82_Music": [
 		{"name": "K.K.赞美诗歌", "id": [2405, "0965"], "internal_name": "Music_02405", "price": 3200},
@@ -3301,7 +3360,8 @@
 		{"name": "杰克的照片", "id": [6996, "1B54"], "internal_name": "Bromide_06996", "price": 40},
 		{"name": "庞克斯的照片", "id": [6997, "1B55"], "internal_name": "Bromide_06997", "price": 40},
 		{"name": "雷姆的照片", "id": [7212, "1C2C"], "internal_name": "Bromide_07212", "price": 40},
-		{"name": "茶茶丸的照片", "id": [7213, "1C2D"], "internal_name": "Bromide_07213", "price": 40}
+		{"name": "茶茶丸的照片", "id": [7213, "1C2D"], "internal_name": "Bromide_07213", "price": 40},
+		{"name": "铃铃鹿的照片", "id": [13862, "3626"], "internal_name": "Bromide_13862", "price": 40}
 	],
 	"STR_ItemName_85_BridgeSlope": [
 		{"name": "石台阶", "id": [5863, "16E7"], "internal_name": "SlopeItem_05863", "price": 168000},
@@ -3961,6 +4021,7 @@
 		{"name": "圆框眼镜", "color": "棕色", "id": [11186, "2BB2"], "price": 630},
 		{"name": "圆框眼镜", "color": "紫色", "id": [11187, "2BB3"], "price": 630},
 		{"name": "圆框眼镜", "color": "黑色", "id": [4235, "108B"], "price": 630},
+		{"name": "圣诞老人胡子", "color": "白色", "id": [4492, "118C"], "price": 1480},
 		{"name": "复古墨镜", "color": "绿色", "id": [11209, "2BC9"], "price": 1560},
 		{"name": "复古墨镜", "color": "黄色", "id": [4456, "1168"], "price": 1560},
 		{"name": "复古墨镜", "color": "红色", "id": [11210, "2BCA"], "price": 1560},
@@ -4434,6 +4495,7 @@
 		{"name": "圆点长裙", "color": "黄色", "id": [8711, "2207"], "price": 1300},
 		{"name": "圆点长裙", "color": "粉红", "id": [8712, "2208"], "price": 1300},
 		{"name": "圆点长裙", "color": "浅蓝色", "id": [8713, "2209"], "price": 1300},
+		{"name": "圣诞裤", "color": "红色", "id": [3391, "0D3F"], "price": 2150},
 		{"name": "墨西哥传统裙子", "color": "蓝色", "id": [8743, "2227"], "price": 1100},
 		{"name": "墨西哥传统裙子", "color": "粉红", "id": [8744, "2228"], "price": 1100},
 		{"name": "墨西哥传统裙子", "color": "绿色", "id": [8745, "2229"], "price": 1100},
@@ -5072,12 +5134,14 @@
 		{"name": "名侦探帽", "color": "灰色", "id": [11819, "2E2B"], "price": 2100},
 		{"name": "名侦探帽", "color": "米色", "id": [11820, "2E2C"], "price": 2100},
 		{"name": "后冠", "color": "金色", "id": [8000, "1F40"], "price": 1000000},
+		{"name": "向日葵花冠", "color": "黄色", "id": [12577, "3121"], "price": 1560},
 		{"name": "唐装帽", "color": "绿色", "id": [5284, "14A4"], "price": 2000},
 		{"name": "唐装帽", "color": "黄色", "id": [11850, "2E4A"], "price": 2000},
 		{"name": "唐装帽", "color": "黑色", "id": [11851, "2E4B"], "price": 2000},
 		{"name": "唐装帽", "color": "蓝色", "id": [11849, "2E49"], "price": 2000},
 		{"name": "圆点浴帽", "color": "粉红", "id": [5298, "14B2"], "price": 560},
 		{"name": "圆点浴帽", "color": "蓝色", "id": [10825, "2A49"], "price": 560},
+		{"name": "圣诞帽", "color": "红色", "id": [5306, "14BA"], "price": 2000},
 		{"name": "地面蛋壳", "color": "红色", "id": [12439, "3097"], "price": 3200, "DiyRecipe": [673, "02A1"]},
 		{"name": "墨西哥草帽", "color": "自然色×红色", "id": [5138, "1412"], "price": 2000},
 		{"name": "墨西哥草帽", "color": "绿色", "id": [10870, "2A76"], "price": 2000},
@@ -5088,7 +5152,6 @@
 		{"name": "墨西哥草帽", "color": "自然色×绿色", "id": [10868, "2A74"], "price": 2000},
 		{"name": "墨西哥草帽", "color": "海军蓝", "id": [10869, "2A75"], "price": 2000},
 		{"name": "复活节花冠", "color": "彩色", "id": [12445, "309D"], "price": 9600, "DiyRecipe": [693, "02B5"]},
-		{"name": "夏至花冠", "color": "黄色", "id": [12577, "3121"], "price": 1560},
 		{"name": "大蝴蝶结", "color": "绿色", "id": [12052, "2F14"], "price": 1470},
 		{"name": "大蝴蝶结", "color": "蓝色", "id": [12053, "2F15"], "price": 1470},
 		{"name": "大蝴蝶结", "color": "黄色", "id": [12054, "2F16"], "price": 1470},
@@ -5697,6 +5760,7 @@
 		{"name": "飞行帽", "color": "黑色", "id": [11613, "2D5D"], "price": 1120},
 		{"name": "飞行帽", "color": "卡其色", "id": [11614, "2D5E"], "price": 1120},
 		{"name": "飞行帽", "color": "棕色", "id": [5362, "14F2"], "price": 1120},
+		{"name": "驯鹿帽子", "color": "棕色", "id": [5446, "1546"], "price": 1120},
 		{"name": "骸骨头套", "color": "白色", "id": [5328, "14D0"], "price": 1400},
 		{"name": "魔法学校兜帽", "color": "橘色", "id": [13003, "32CB"], "price": 1040},
 		{"name": "魔法学校兜帽", "color": "紫色", "id": [13398, "3456"], "price": 1040},
@@ -6633,6 +6697,7 @@
 		{"name": "马甲连身裙", "color": "米色", "id": [9027, "2343"], "price": 1600},
 		{"name": "马甲连身裙", "color": "浅咖啡色", "id": [9028, "2344"], "price": 1600},
 		{"name": "马甲连身裙", "color": "青苔绿", "id": [9029, "2345"], "price": 1600},
+		{"name": "驯鹿装", "color": "棕色", "id": [4511, "119F"], "price": 1700},
 		{"name": "骷髅装", "color": "白色", "id": [3609, "0E19"], "price": 1280},
 		{"name": "魔术师长袍", "color": "紫色", "id": [8691, "21F3"], "price": 4000},
 		{"name": "魔术师长袍", "color": "蓝色", "id": [4273, "10B1"], "price": 4000},
@@ -7611,7 +7676,6 @@
 		{"name": "兔子T恤", "color": "蓝色", "id": [8197, "2005"], "price": 800},
 		{"name": "军装风派克大衣", "color": "棕色", "id": [9303, "2457"], "price": 1680},
 		{"name": "军装风派克大衣", "color": "绿色", "id": [4422, "1146"], "price": 1680},
-		{"name": "冬至毛衣", "color": "米色", "id": [12959, "329F"], "price": 1200},
 		{"name": "凤梨夏威夷衬衫", "color": "橘色", "id": [9774, "262E"], "price": 960},
 		{"name": "凤梨夏威夷衬衫", "color": "红色", "id": [6819, "1AA3"], "price": 960},
 		{"name": "凤梨夏威夷衬衫", "color": "黄色", "id": [6820, "1AA4"], "price": 960},
@@ -7794,6 +7858,7 @@
 		{"name": "圣诞毛衣", "color": "绿色", "id": [5382, "1506"], "price": 1800},
 		{"name": "圣诞毛衣", "color": "红色", "id": [7846, "1EA6"], "price": 1800},
 		{"name": "圣诞毛衣", "color": "蓝色", "id": [7847, "1EA7"], "price": 1800},
+		{"name": "圣诞老人外套", "color": "红色", "id": [3390, "0D3E"], "price": 2600},
 		{"name": "坦克背心", "color": "白色", "id": [8373, "20B5"], "price": 350},
 		{"name": "坦克背心", "color": "棕色", "id": [8374, "20B6"], "price": 350},
 		{"name": "坦克背心", "color": "红色", "id": [8375, "20B7"], "price": 350},
@@ -7865,6 +7930,7 @@
 		{"name": "宽版条纹衬衫", "color": "粉红", "id": [7777, "1E61"], "price": 960},
 		{"name": "宽版条纹衬衫", "color": "绿色", "id": [7778, "1E62"], "price": 960},
 		{"name": "宽版条纹衬衫", "color": "灰色", "id": [7779, "1E63"], "price": 960},
+		{"name": "寒冬毛衣", "color": "米色", "id": [12959, "329F"], "price": 1200},
 		{"name": "小鸡T恤", "color": "蓝色", "id": [3259, "0CBB"], "price": 800},
 		{"name": "工作人员制服", "color": "蓝色", "id": [5841, "16D1"], "price": 800},
 		{"name": "工作人员制服", "color": "黄色", "id": [8413, "20DD"], "price": 800},

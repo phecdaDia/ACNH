@@ -81,6 +81,7 @@
 		{"name": "coffee grinder", "id": [920, "0398"], "internal_name": "Ftr_00920", "price": 2200},
 		{"name": "pot rack", "id": [928, "03A0"], "internal_name": "Ftr_00928", "price": 3000},
 		{"name": "air conditioner", "id": [929, "03A1"], "internal_name": "Ftr_00929", "price": 63000},
+		{"name": "cornucopia", "id": [931, "03A3"], "internal_name": "Ftr_00931", "price": 10000},
 		{"name": "dartboard", "id": [937, "03A9"], "internal_name": "Ftr_00937", "price": 5200},
 		{"name": "DJ's turntable", "id": [941, "03AD"], "internal_name": "Ftr_00941", "price": 9300},
 		{"name": "effects rack", "id": [950, "03B6"], "internal_name": "Ftr_00950", "price": 6800},
@@ -93,6 +94,8 @@
 		{"name": "harp", "id": [987, "03DB"], "internal_name": "Ftr_00987", "price": 130000},
 		{"name": "incense burner", "id": [997, "03E5"], "internal_name": "Ftr_00997", "price": 880},
 		{"name": "kitchen island", "id": [998, "03E6"], "internal_name": "Ftr_00998", "price": 170000},
+		{"name": "kadomatsu", "id": [1004, "03EC"], "internal_name": "Ftr_01004", "price": 2580},
+		{"name": "kagamimochi", "id": [1005, "03ED"], "internal_name": "Ftr_01005", "price": 1800},
 		{"name": "pile of leaves", "id": [1023, "03FF"], "internal_name": "Ftr_01023", "price": 5200, "DiyRecipe": [586, "024A"]},
 		{"name": "low screen", "id": [1029, "0405"], "internal_name": "Ftr_01029", "price": 870},
 		{"name": "magazine rack", "id": [1032, "0408"], "internal_name": "Ftr_01032", "price": 2760, "DiyRecipe": [413, "019D"]},
@@ -872,8 +875,36 @@
 		{"name": "Luna's bed", "id": [13221, "33A5"], "internal_name": "Ftr_13221", "price": 3600},
 		{"name": "spooky garland", "id": [13222, "33A6"], "internal_name": "Ftr_13222", "price": 6600, "DiyRecipe": [734, "02DE"]},
 		{"name": "spooky table setting", "id": [13223, "33A7"], "internal_name": "Ftr_13223", "price": 6600, "DiyRecipe": [735, "02DF"]},
+		{"name": "Toy Day sleigh", "id": [13241, "33B9"], "internal_name": "Ftr_13241", "price": 80000},
+		{"name": "RC helicopter", "id": [13242, "33BA"], "internal_name": "Ftr_13242", "price": 3600},
+		{"name": "puppy plushie", "id": [13243, "33BB"], "internal_name": "Ftr_13243", "price": 2400},
+		{"name": "gift pile", "id": [13244, "33BC"], "internal_name": "Ftr_13244", "price": 2640, "DiyRecipe": [750, "02EE"]},
+		{"name": "Yule log", "id": [13245, "33BD"], "internal_name": "Ftr_13245", "price": 1200},
+		{"name": "pop-up book", "id": [13246, "33BE"], "internal_name": "Ftr_13246", "price": 2000},
+		{"name": "tin robot", "id": [13247, "33BF"], "internal_name": "Ftr_13247", "price": 3500},
+		{"name": "Toy Day stockings", "id": [13248, "33C0"], "internal_name": "Ftr_13248", "price": 2000},
+		{"name": "kids' tent", "id": [13249, "33C1"], "internal_name": "Ftr_13249", "price": 4500},
+		{"name": "mini circuit", "id": [13250, "33C2"], "internal_name": "Ftr_13250", "price": 3800},
+		{"name": "dinosaur toy", "id": [13251, "33C3"], "internal_name": "Ftr_13251", "price": 2400},
+		{"name": "dollhouse", "id": [13252, "33C4"], "internal_name": "Ftr_13252", "price": 4000},
 		{"name": "Ring-Con", "id": [13293, "33ED"], "internal_name": "Ftr_13293", "price": 4950},
-		{"name": "Jack's portrait", "id": [13353, "3429"], "internal_name": "Ftr_13353", "price": 8000}
+		{"name": "Jack's portrait", "id": [13353, "3429"], "internal_name": "Ftr_13353", "price": 8000},
+		{"name": "Turkey Day garden stand", "id": [13447, "3487"], "internal_name": "Ftr_13447", "price": 3600, "DiyRecipe": [740, "02E4"]},
+		{"name": "Turkey Day hearth", "id": [13448, "3488"], "internal_name": "Ftr_13448", "price": 13000, "DiyRecipe": [741, "02E5"]},
+		{"name": "Turkey Day decorations", "id": [13449, "3489"], "internal_name": "Ftr_13449", "price": 2000, "DiyRecipe": [742, "02E6"]},
+		{"name": "Turkey Day chair", "id": [13450, "348A"], "internal_name": "Ftr_13450", "price": 2200, "DiyRecipe": [743, "02E7"]},
+		{"name": "Turkey Day table", "id": [13453, "348D"], "internal_name": "Ftr_13453", "price": 4500, "DiyRecipe": [745, "02E9"]},
+		{"name": "Yut Nori", "id": [13459, "3493"], "internal_name": "Ftr_13459", "price": 1300},
+		{"name": "twelve-grape dish", "id": [13462, "3496"], "internal_name": "Ftr_13462", "price": 1200},
+		{"name": "berliner", "id": [13463, "3497"], "internal_name": "Ftr_13463", "price": 1200},
+		{"name": "zodiac ox figurine", "id": [13490, "34B2"], "internal_name": "Ftr_13490", "price": 1600},
+		{"name": "2021 celebratory arch", "id": [13543, "34E7"], "internal_name": "Ftr_13543", "price": 2021},
+		{"name": "New Year's noodles", "id": [13797, "35E5"], "internal_name": "Ftr_13797", "price": 1300},
+		{"name": "Olivier salad", "id": [13799, "35E7"], "internal_name": "Ftr_13799", "price": 1000},
+		{"name": "Turkey Day casserole", "id": [13818, "35FA"], "internal_name": "Ftr_13818", "price": 7000, "DiyRecipe": [747, "02EB"]},
+		{"name": "Turkey Day wheat decor", "id": [13819, "35FB"], "internal_name": "Ftr_13819", "price": 800, "DiyRecipe": [748, "02EC"]},
+		{"name": "Turkey Day table setting", "id": [13820, "35FC"], "internal_name": "Ftr_13820", "price": 4000, "DiyRecipe": [749, "02ED"]},
+		{"name": "set of stockings", "id": [13930, "366A"], "internal_name": "Ftr_13930", "price": 2000}
 	],
 	"STR_ItemName_01_Art": [
 		{"name": "scenic painting", "id": [2, "0002"], "internal_name": "Picture_00002", "price": 4980},
@@ -2197,7 +2228,10 @@
 		{"name": "mermaid wall", "id": [12566, "3116"], "internal_name": "RoomWall_12566", "price": 94080, "DiyRecipe": [729, "02D9"]},
 		{"name": "pirate wall", "id": [12567, "3117"], "internal_name": "RoomWall_12567", "price": 3000},
 		{"name": "spooky wall", "id": [13224, "33A8"], "internal_name": "RoomWall_13224", "price": 12000},
-		{"name": "fireworks-show wall", "id": [13230, "33AE"], "internal_name": "RoomWall_13230", "price": 3000}
+		{"name": "fireworks-show wall", "id": [13230, "33AE"], "internal_name": "RoomWall_13230", "price": 3000},
+		{"name": "Turkey Day wall", "id": [13318, "3406"], "internal_name": "RoomWall_13318", "price": 3000},
+		{"name": "falling-snow wall", "id": [13603, "3523"], "internal_name": "RoomWall_13603", "price": 10800, "DiyRecipe": [752, "02F0"]},
+		{"name": "aurora wall", "id": [13609, "3529"], "internal_name": "RoomWall_13609", "price": 7000}
 	],
 	"STR_ItemName_51_RoomFloor": [
 		{"name": "basement flooring", "id": [4797, "12BD"], "internal_name": "RoomFloor_04797", "price": 6000, "DiyRecipe": [474, "01DA"]},
@@ -2378,7 +2412,8 @@
 		{"name": "green wedding flooring", "id": [12434, "3092"], "internal_name": "RoomFloor_12434", "price": 3000},
 		{"name": "mermaid flooring", "id": [12568, "3118"], "internal_name": "RoomFloor_12568", "price": 83900, "DiyRecipe": [730, "02DA"]},
 		{"name": "pirate flooring", "id": [12569, "3119"], "internal_name": "RoomFloor_12569", "price": 3000},
-		{"name": "spooky flooring", "id": [13225, "33A9"], "internal_name": "RoomFloor_13225", "price": 12000}
+		{"name": "spooky flooring", "id": [13225, "33A9"], "internal_name": "RoomFloor_13225", "price": 12000},
+		{"name": "Turkey Day flooring", "id": [13319, "3407"], "internal_name": "RoomFloor_13319", "price": 3000}
 	],
 	"STR_ItemName_52_RoomRug": [
 		{"name": "pink heart rug", "id": [7322, "1C9A"], "internal_name": "Rug_07322", "price": 1500},
@@ -2463,6 +2498,7 @@
 		{"name": "simple small orange mat", "id": [7541, "1D75"], "internal_name": "Rug_07541", "price": 1000},
 		{"name": "simple small purple mat", "id": [7542, "1D76"], "internal_name": "Rug_07542", "price": 1000},
 		{"name": "simple small black mat", "id": [7543, "1D77"], "internal_name": "Rug_07543", "price": 1000},
+		{"name": "festive rug", "id": [7544, "1D78"], "internal_name": "Rug_07544", "price": 6000, "DiyRecipe": [746, "02EA"]},
 		{"name": "spooky rug", "id": [7545, "1D79"], "internal_name": "Rug_07545", "price": 8000},
 		{"name": "Bunny Day rug", "id": [7546, "1D7A"], "internal_name": "Rug_07546", "price": 9600, "DiyRecipe": [709, "02C5"]},
 		{"name": "white heart rug", "id": [7578, "1D9A"], "internal_name": "Rug_07578", "price": 1500},
@@ -2510,6 +2546,7 @@
 		{"name": "light bamboo rug", "id": [11113, "2B69"], "internal_name": "Rug_11113", "price": 9600, "DiyRecipe": [671, "029F"]},
 		{"name": "dark bamboo rug", "id": [11114, "2B6A"], "internal_name": "Rug_11114", "price": 3840, "DiyRecipe": [672, "02A0"]},
 		{"name": "Bell-bag rug", "id": [12214, "2FB6"], "internal_name": "Rug_12214", "price": 24000},
+		{"name": "summer-shell rug", "id": [12217, "2FB9"], "internal_name": "Rug_12217", "price": 28800, "DiyRecipe": [757, "02F5"]},
 		{"name": "Nook Inc. botanical rug", "id": [12325, "3025"], "internal_name": "Rug_12325", "price": 20000},
 		{"name": "Nook Inc. silk rug", "id": [12396, "306C"], "internal_name": "Rug_12396", "price": 12000},
 		{"name": "blue wedding rug", "id": [12462, "30AE"], "internal_name": "Rug_12462", "price": 1500},
@@ -2517,7 +2554,9 @@
 		{"name": "red wedding rug", "id": [12465, "30B1"], "internal_name": "Rug_12465", "price": 1500},
 		{"name": "mermaid rug", "id": [12563, "3113"], "internal_name": "Rug_12563", "price": 41440, "DiyRecipe": [728, "02D8"]},
 		{"name": "pirate rug", "id": [12564, "3114"], "internal_name": "Rug_12564", "price": 1500},
-		{"name": "moon rug", "id": [13287, "33E7"], "internal_name": "Rug_13287", "price": 2000}
+		{"name": "moon rug", "id": [13287, "33E7"], "internal_name": "Rug_13287", "price": 2000},
+		{"name": "Turkey Day rug", "id": [13525, "34D5"], "internal_name": "Rug_13525", "price": 2000},
+		{"name": "sunflower rug", "id": [13596, "351C"], "internal_name": "Rug_13596", "price": 1500}
 	],
 	"STR_ItemName_61_HouseDoorDeco": [
 		{"name": "cosmos wreath", "id": [4293, "10C5"], "internal_name": "DoorDeco_04293", "price": 2880, "DiyRecipe": [227, "00E3"]},
@@ -2562,7 +2601,9 @@
 		{"name": "dark tulip wreath", "id": [5771, "168B"], "internal_name": "DoorDeco_05771", "price": 6400, "DiyRecipe": [362, "016A"]},
 		{"name": "blue rose wreath", "id": [5772, "168C"], "internal_name": "DoorDeco_05772", "price": 80000, "DiyRecipe": [447, "01BF"]},
 		{"name": "gold rose wreath", "id": [5820, "16BC"], "internal_name": "DoorDeco_05820", "price": 80000, "DiyRecipe": [449, "01C1"]},
-		{"name": "Bunny Day wreath", "id": [12517, "30E5"], "internal_name": "DoorDeco_12517", "price": 9600, "DiyRecipe": [707, "02C3"]}
+		{"name": "Bunny Day wreath", "id": [12517, "30E5"], "internal_name": "DoorDeco_12517", "price": 9600, "DiyRecipe": [707, "02C3"]},
+		{"name": "festive wreath", "id": [13357, "342D"], "internal_name": "DoorDeco_13357", "price": 1500},
+		{"name": "New Year's shimekazari", "id": [13501, "34BD"], "internal_name": "DoorDeco_13501", "price": 2000}
 	],
 	"STR_ItemName_62_HousePost": [
 		{"name": "ordinary mailbox", "id": [2571, "0A0B"], "internal_name": "HousePost_02571", "price": 0},
@@ -2635,7 +2676,8 @@
 		{"name": "Sagittarius fragment", "id": [5996, "176C"], "internal_name": "StarPiece_05996", "price": 2000},
 		{"name": "maple leaf", "id": [7374, "1CCE"], "internal_name": "AutumnLeaf_07374", "price": 800},
 		{"name": "customizable phone case kit", "id": [8760, "2238"], "internal_name": "CraftPhoneCase_08760", "price": 36000},
-		{"name": "pearl", "id": [12968, "32A8"], "internal_name": "CraftMaterial_12968", "price": 40000}
+		{"name": "pearl", "id": [12968, "32A8"], "internal_name": "CraftMaterial_12968", "price": 40000},
+		{"name": "Pocket Camp phone case", "id": [13439, "347F"], "internal_name": "CraftPhoneCase_13439", "price": 2000}
 	],
 	"STR_ItemName_80_Etc": [
 		{"name": "pitfall seed", "id": [2578, "0A12"], "internal_name": "PitFallSeed_02578", "price": 560, "DiyRecipe": [264, "0108"]},
@@ -2753,7 +2795,16 @@
 		{"name": "Nook Inc. handheld pennant", "id": [13128, "3348"], "internal_name": "HandheldPennant_13128", "price": 10000},
 		{"name": "Dream Bell exchange ticket", "id": [13228, "33AC"], "internal_name": "MilePlaneTicket_13228", "price": 20000},
 		{"name": "Body-Paint Costume Tips", "id": [13256, "33C8"], "internal_name": "DummyHowtoBook_13256", "price": 48000},
-		{"name": "Exploring New Eye Colors", "id": [13257, "33C9"], "internal_name": "DummyHowtoBook_13257", "price": 48000}
+		{"name": "Exploring New Eye Colors", "id": [13257, "33C9"], "internal_name": "DummyHowtoBook_13257", "price": 48000},
+		{"name": "transfer kit", "id": [13346, "3422"], "internal_name": "HousingKit_13346", "price": 40},
+		{"name": "Hip Reaction Collection", "id": [13610, "352A"], "internal_name": "DummyHowtoBook_13610", "price": 54000},
+		{"name": "Top 6 Stylish Hairstyles", "id": [13766, "35C6"], "internal_name": "DummyHowtoBook_13766", "price": 36000},
+		{"name": "Cozy Turkey Day DIY", "id": [13787, "35DB"], "internal_name": "DummyRecipe_13787", "price": 19800},
+		{"name": "festive wrapping paper", "id": [13792, "35E0"], "internal_name": "WrappingPaper_13792", "price": 1200, "DiyRecipe": [751, "02EF"]},
+		{"name": "gift", "id": [13793, "35E1"], "internal_name": "DummyWrapping_13793", "price": 888},
+		{"name": "sparkling cider", "id": [13835, "360B"], "internal_name": "JuiceFuzzyapple_13835", "price": 1000},
+		{"name": "magic bag", "id": [13836, "360C"], "internal_name": "BigbagPresent_13836", "price": 888},
+		{"name": "someone's gift", "id": [13869, "362D"], "internal_name": "QuestChristmasPresentbox_13869", "price": 888}
 	],
 	"STR_ItemName_81_Event": [
 		{"name": "lost item", "id": [2374, "0946"], "internal_name": "LostQuest_02374", "price": 0},
@@ -2786,7 +2837,15 @@
 		{"name": "heart crystal", "id": [12546, "3102"], "internal_name": "LoveCrystal_12546", "price": 400},
 		{"name": "communicator", "id": [13105, "3331"], "internal_name": "PirateQuest_13105", "price": 888},
 		{"name": "lollipop", "id": [13196, "338C"], "internal_name": "Candy_13196", "price": 480},
-		{"name": "candy", "id": [13197, "338D"], "internal_name": "Candy_13197", "price": 120}
+		{"name": "candy", "id": [13197, "338D"], "internal_name": "Candy_13197", "price": 120},
+		{"name": "fish meunière", "id": [13779, "35D3"], "internal_name": "HarvestDish_13779", "price": 888},
+		{"name": "gratin", "id": [13780, "35D4"], "internal_name": "HarvestDish_13780", "price": 888},
+		{"name": "clam chowder", "id": [13781, "35D5"], "internal_name": "HarvestDish_13781", "price": 888},
+		{"name": "pumpkin pie", "id": [13782, "35D6"], "internal_name": "HarvestDish_13782", "price": 888},
+		{"name": "クラムチャウダーHaPu", "id": [13800, "35E8"], "internal_name": "HarvestDish_13800", "price": 888},
+		{"name": "パンプキンパイHaPu", "id": [13801, "35E9"], "internal_name": "HarvestDish_13801", "price": 888},
+		{"name": "サカナのムニエルHaPu", "id": [13802, "35EA"], "internal_name": "HarvestDish_13802", "price": 888},
+		{"name": "グラタンHaPu", "id": [13803, "35EB"], "internal_name": "HarvestDish_13803", "price": 888}
 	],
 	"STR_ItemName_82_Music": [
 		{"name": "K.K. Chorale", "id": [2405, "0965"], "internal_name": "Music_02405", "price": 3200},
@@ -3301,7 +3360,8 @@
 		{"name": "Raymond's photo", "id": [6996, "1B54"], "internal_name": "Bromide_06996", "price": 40},
 		{"name": "Cyd's photo", "id": [6997, "1B55"], "internal_name": "Bromide_06997", "price": 40},
 		{"name": "Sherb's photo", "id": [7212, "1C2C"], "internal_name": "Bromide_07212", "price": 40},
-		{"name": "Dom's photo", "id": [7213, "1C2D"], "internal_name": "Bromide_07213", "price": 40}
+		{"name": "Dom's photo", "id": [7213, "1C2D"], "internal_name": "Bromide_07213", "price": 40},
+		{"name": "Jingle's photo", "id": [13862, "3626"], "internal_name": "Bromide_13862", "price": 40}
 	],
 	"STR_ItemName_85_BridgeSlope": [
 		{"name": "stone staircase", "id": [5863, "16E7"], "internal_name": "SlopeItem_05863", "price": 168000},
@@ -4079,6 +4139,7 @@
 		{"name": "round tinted shades", "color": "Dark brown", "id": [11221, "2BD5"], "price": 880},
 		{"name": "round tinted shades", "color": "Green", "id": [11222, "2BD6"], "price": 880},
 		{"name": "rounded beard", "color": "Hair Color", "id": [4679, "1247"], "price": 980},
+		{"name": "Santa beard", "color": "White", "id": [4492, "118C"], "price": 1480},
 		{"name": "shattered glasses", "color": "Black", "id": [4337, "10F1"], "price": 40},
 		{"name": "ski goggles", "color": "Yellow", "id": [11479, "2CD7"], "price": 980},
 		{"name": "ski goggles", "color": "White", "id": [4453, "1165"], "price": 980},
@@ -4784,6 +4845,7 @@
 		{"name": "sailor skirt", "color": "Purple", "id": [11639, "2D77"], "price": 980},
 		{"name": "sailor skirt", "color": "Red", "id": [11640, "2D78"], "price": 980},
 		{"name": "sailor skirt", "color": "Pink", "id": [11641, "2D79"], "price": 980},
+		{"name": "Santa pants", "color": "Red", "id": [3391, "0D3F"], "price": 2150},
 		{"name": "satin pants", "color": "Light purple", "id": [9720, "25F8"], "price": 880},
 		{"name": "satin pants", "color": "Pink", "id": [9721, "25F9"], "price": 880},
 		{"name": "satin pants", "color": "Dark red", "id": [9722, "25FA"], "price": 880},
@@ -5334,6 +5396,7 @@
 		{"name": "sailor's hat", "color": "White", "id": [5265, "1491"], "price": 1680},
 		{"name": "sailor's hat", "color": "Navy blue", "id": [10751, "29FF"], "price": 1680},
 		{"name": "sailor's hat", "color": "Blue", "id": [10752, "2A00"], "price": 1680},
+		{"name": "Santa hat", "color": "Red", "id": [5306, "14BA"], "price": 2000},
 		{"name": "scholar's hat", "color": "Red", "id": [5137, "1411"], "price": 3010},
 		{"name": "scholar's hat", "color": "Green", "id": [11867, "2E5B"], "price": 3010},
 		{"name": "scholar's hat", "color": "Blue", "id": [11868, "2E5C"], "price": 3010},
@@ -5416,7 +5479,7 @@
 		{"name": "student cap", "color": "Purple", "id": [11824, "2E30"], "price": 1040},
 		{"name": "student cap", "color": "Gray", "id": [11825, "2E31"], "price": 1040},
 		{"name": "student cap", "color": "Blue", "id": [11826, "2E32"], "price": 1040},
-		{"name": "summer-solstice crown", "color": "Yellow", "id": [12577, "3121"], "price": 1560},
+		{"name": "sunflower crown", "color": "Yellow", "id": [12577, "3121"], "price": 1560},
 		{"name": "sushi chef hat", "color": "Dark blue", "id": [11814, "2E26"], "price": 880},
 		{"name": "sushi chef hat", "color": "White", "id": [5281, "14A1"], "price": 880},
 		{"name": "swimming cap", "color": "Light blue", "id": [10753, "2A01"], "price": 560},
@@ -5653,6 +5716,7 @@
 		{"name": "racing helmet", "color": "Green", "id": [10241, "2801"], "price": 1040},
 		{"name": "racing helmet", "color": "Purple", "id": [10242, "2802"], "price": 1040},
 		{"name": "racing helmet", "color": "Light blue", "id": [10243, "2803"], "price": 1040},
+		{"name": "reindeer hat", "color": "Brown", "id": [5446, "1546"], "price": 1120},
 		{"name": "samurai helmet", "color": "Golden yellow", "id": [11880, "2E68"], "price": 5880},
 		{"name": "samurai helmet", "color": "Black", "id": [11877, "2E65"], "price": 5880},
 		{"name": "samurai helmet", "color": "Blue", "id": [11878, "2E66"], "price": 5880},
@@ -6407,6 +6471,7 @@
 		{"name": "raggedy outfit", "color": "Black", "id": [13392, "3450"], "price": 1500},
 		{"name": "raggedy outfit", "color": "Purple", "id": [13388, "344C"], "price": 1500},
 		{"name": "raggedy outfit", "color": "White", "id": [13389, "344D"], "price": 1500},
+		{"name": "reindeer costume", "color": "Brown", "id": [4511, "119F"], "price": 1700},
 		{"name": "Renaissance dress", "color": "Blue", "id": [8170, "1FEA"], "price": 6000},
 		{"name": "Renaissance dress", "color": "Navy blue", "id": [8171, "1FEB"], "price": 6000},
 		{"name": "Renaissance dress", "color": "Pink", "id": [8172, "1FEC"], "price": 6000},
@@ -8064,6 +8129,7 @@
 		{"name": "meme shirt", "color": "Green", "id": [8431, "20EF"], "price": 960},
 		{"name": "meme shirt", "color": "Red", "id": [8432, "20F0"], "price": 960},
 		{"name": "meme shirt", "color": "Purple", "id": [4717, "126D"], "price": 960},
+		{"name": "midwinter sweater", "color": "Beige", "id": [12959, "329F"], "price": 1200},
 		{"name": "military uniform", "color": "Red", "id": [3231, "0C9F"], "price": 3360},
 		{"name": "military uniform", "color": "Blue", "id": [7449, "1D19"], "price": 3360},
 		{"name": "military uniform", "color": "Green", "id": [7450, "1D1A"], "price": 3360},
@@ -8316,6 +8382,7 @@
 		{"name": "samurai shirt", "color": "White", "id": [8148, "1FD4"], "price": 6720},
 		{"name": "samurai shirt", "color": "Golden yellow", "id": [8149, "1FD5"], "price": 6720},
 		{"name": "samurai shirt", "color": "Red", "id": [5130, "140A"], "price": 6720},
+		{"name": "Santa coat", "color": "Red", "id": [3390, "0D3E"], "price": 2600},
 		{"name": "school jacket", "color": "White", "id": [7550, "1D7E"], "price": 1400},
 		{"name": "school jacket", "color": "Black", "id": [4365, "110D"], "price": 1400},
 		{"name": "school jacket", "color": "Purple", "id": [7551, "1D7F"], "price": 1400},
@@ -8593,7 +8660,6 @@
 		{"name": "western shirt", "color": "Pink", "id": [8477, "211D"], "price": 2100},
 		{"name": "western shirt", "color": "Yellow", "id": [8478, "211E"], "price": 2100},
 		{"name": "western shirt", "color": "Black", "id": [8479, "211F"], "price": 2100},
-		{"name": "winter-solstice sweater", "color": "Beige", "id": [12959, "329F"], "price": 1200},
 		{"name": "work apron", "color": "Avocado", "id": [11955, "2EB3"], "price": 1100},
 		{"name": "work apron", "color": "Orange", "id": [9830, "2666"], "price": 1100},
 		{"name": "work shirt", "color": "Red-striped necktie", "id": [3266, "0CC2"], "price": 1040},

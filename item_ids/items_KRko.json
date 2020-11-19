@@ -81,6 +81,7 @@
 		{"name": "커피밀", "id": [920, "0398"], "internal_name": "Ftr_00920", "price": 2200},
 		{"name": "주방 도구 걸이", "id": [928, "03A0"], "internal_name": "Ftr_00928", "price": 3000},
 		{"name": "에어컨", "id": [929, "03A1"], "internal_name": "Ftr_00929", "price": 63000},
+		{"name": "풍요의 뿔", "id": [931, "03A3"], "internal_name": "Ftr_00931", "price": 10000},
 		{"name": "다트 보드", "id": [937, "03A9"], "internal_name": "Ftr_00937", "price": 5200},
 		{"name": "DJ 테이블", "id": [941, "03AD"], "internal_name": "Ftr_00941", "price": 9300},
 		{"name": "이펙터 장비", "id": [950, "03B6"], "internal_name": "Ftr_00950", "price": 6800},
@@ -93,6 +94,8 @@
 		{"name": "하프", "id": [987, "03DB"], "internal_name": "Ftr_00987", "price": 130000},
 		{"name": "향", "id": [997, "03E5"], "internal_name": "Ftr_00997", "price": 880},
 		{"name": "아일랜드 키친", "id": [998, "03E6"], "internal_name": "Ftr_00998", "price": 170000},
+		{"name": "새해맞이 대나무", "id": [1004, "03EC"], "internal_name": "Ftr_01004", "price": 2580},
+		{"name": "새해맞이 찰떡", "id": [1005, "03ED"], "internal_name": "Ftr_01005", "price": 1800},
 		{"name": "낙엽", "id": [1023, "03FF"], "internal_name": "Ftr_01023", "price": 5200, "DiyRecipe": [586, "024A"]},
 		{"name": "낮은 파티션", "id": [1029, "0405"], "internal_name": "Ftr_01029", "price": 870},
 		{"name": "잡지 꽂이", "id": [1032, "0408"], "internal_name": "Ftr_01032", "price": 2760, "DiyRecipe": [413, "019D"]},
@@ -872,8 +875,36 @@
 		{"name": "몽셰르의 침대", "id": [13221, "33A5"], "internal_name": "Ftr_13221", "price": 3600},
 		{"name": "할로윈 가랜드", "id": [13222, "33A6"], "internal_name": "Ftr_13222", "price": 6600, "DiyRecipe": [734, "02DE"]},
 		{"name": "할로윈 테이블 세팅", "id": [13223, "33A7"], "internal_name": "Ftr_13223", "price": 6600, "DiyRecipe": [735, "02DF"]},
+		{"name": "크리스마스 썰매", "id": [13241, "33B9"], "internal_name": "Ftr_13241", "price": 80000},
+		{"name": "RC 헬리콥터", "id": [13242, "33BA"], "internal_name": "Ftr_13242", "price": 3600},
+		{"name": "강아지 인형", "id": [13243, "33BB"], "internal_name": "Ftr_13243", "price": 2400},
+		{"name": "선물 더미", "id": [13244, "33BC"], "internal_name": "Ftr_13244", "price": 2640, "DiyRecipe": [750, "02EE"]},
+		{"name": "부쉬 드 노엘", "id": [13245, "33BD"], "internal_name": "Ftr_13245", "price": 1200},
+		{"name": "입체 그림책", "id": [13246, "33BE"], "internal_name": "Ftr_13246", "price": 2000},
+		{"name": "양철 로봇", "id": [13247, "33BF"], "internal_name": "Ftr_13247", "price": 3500},
+		{"name": "크리스마스 벽걸이 양말", "id": [13248, "33C0"], "internal_name": "Ftr_13248", "price": 2000},
+		{"name": "어린이용 텐트", "id": [13249, "33C1"], "internal_name": "Ftr_13249", "price": 4500},
+		{"name": "미니카 서킷", "id": [13250, "33C2"], "internal_name": "Ftr_13250", "price": 3800},
+		{"name": "공룡 장난감", "id": [13251, "33C3"], "internal_name": "Ftr_13251", "price": 2400},
+		{"name": "인형의 집", "id": [13252, "33C4"], "internal_name": "Ftr_13252", "price": 4000},
 		{"name": "링콘", "id": [13293, "33ED"], "internal_name": "Ftr_13293", "price": 4950},
-		{"name": "펌킹의 초상화", "id": [13353, "3429"], "internal_name": "Ftr_13353", "price": 8000}
+		{"name": "펌킹의 초상화", "id": [13353, "3429"], "internal_name": "Ftr_13353", "price": 8000},
+		{"name": "하베스트 가든 스탠드", "id": [13447, "3487"], "internal_name": "Ftr_13447", "price": 3600, "DiyRecipe": [740, "02E4"]},
+		{"name": "하베스트 난로", "id": [13448, "3488"], "internal_name": "Ftr_13448", "price": 13000, "DiyRecipe": [741, "02E5"]},
+		{"name": "하베스트 데코레이션", "id": [13449, "3489"], "internal_name": "Ftr_13449", "price": 2000, "DiyRecipe": [742, "02E6"]},
+		{"name": "하베스트 체어", "id": [13450, "348A"], "internal_name": "Ftr_13450", "price": 2200, "DiyRecipe": [743, "02E7"]},
+		{"name": "하베스트 테이블", "id": [13453, "348D"], "internal_name": "Ftr_13453", "price": 4500, "DiyRecipe": [745, "02E9"]},
+		{"name": "윷놀이", "id": [13459, "3493"], "internal_name": "Ftr_13459", "price": 1300},
+		{"name": "포도알 12개", "id": [13462, "3496"], "internal_name": "Ftr_13462", "price": 1200},
+		{"name": "베를리너", "id": [13463, "3497"], "internal_name": "Ftr_13463", "price": 1200},
+		{"name": "소띠 장식품", "id": [13490, "34B2"], "internal_name": "Ftr_13490", "price": 1600},
+		{"name": "2021년 아치", "id": [13543, "34E7"], "internal_name": "Ftr_13543", "price": 2021},
+		{"name": "새해맞이 국수", "id": [13797, "35E5"], "internal_name": "Ftr_13797", "price": 1300},
+		{"name": "올리비에 샐러드", "id": [13799, "35E7"], "internal_name": "Ftr_13799", "price": 1000},
+		{"name": "하베스트 캐서롤", "id": [13818, "35FA"], "internal_name": "Ftr_13818", "price": 7000, "DiyRecipe": [747, "02EB"]},
+		{"name": "하베스트 밀 장식", "id": [13819, "35FB"], "internal_name": "Ftr_13819", "price": 800, "DiyRecipe": [748, "02EC"]},
+		{"name": "하베스트 테이블 세팅", "id": [13820, "35FC"], "internal_name": "Ftr_13820", "price": 4000, "DiyRecipe": [749, "02ED"]},
+		{"name": "벽걸이 양말", "id": [13930, "366A"], "internal_name": "Ftr_13930", "price": 2000}
 	],
 	"STR_ItemName_01_Art": [
 		{"name": "뛰어난 명화", "id": [2, "0002"], "internal_name": "Picture_00002", "price": 4980},
@@ -2197,7 +2228,10 @@
 		{"name": "머메이드 벽지", "id": [12566, "3116"], "internal_name": "RoomWall_12566", "price": 94080, "DiyRecipe": [729, "02D9"]},
 		{"name": "해적 벽지", "id": [12567, "3117"], "internal_name": "RoomWall_12567", "price": 3000},
 		{"name": "할로윈 벽", "id": [13224, "33A8"], "internal_name": "RoomWall_13224", "price": 12000},
-		{"name": "불꽃축제 벽", "id": [13230, "33AE"], "internal_name": "RoomWall_13230", "price": 3000}
+		{"name": "불꽃축제 벽", "id": [13230, "33AE"], "internal_name": "RoomWall_13230", "price": 3000},
+		{"name": "하베스트 벽", "id": [13318, "3406"], "internal_name": "RoomWall_13318", "price": 3000},
+		{"name": "눈 내리는 벽", "id": [13603, "3523"], "internal_name": "RoomWall_13603", "price": 10800, "DiyRecipe": [752, "02F0"]},
+		{"name": "오로라 벽", "id": [13609, "3529"], "internal_name": "RoomWall_13609", "price": 7000}
 	],
 	"STR_ItemName_51_RoomFloor": [
 		{"name": "지하실 바닥", "id": [4797, "12BD"], "internal_name": "RoomFloor_04797", "price": 6000, "DiyRecipe": [474, "01DA"]},
@@ -2378,7 +2412,8 @@
 		{"name": "초록 웨딩 바닥", "id": [12434, "3092"], "internal_name": "RoomFloor_12434", "price": 3000},
 		{"name": "머메이드 바닥", "id": [12568, "3118"], "internal_name": "RoomFloor_12568", "price": 83900, "DiyRecipe": [730, "02DA"]},
 		{"name": "해적 바닥", "id": [12569, "3119"], "internal_name": "RoomFloor_12569", "price": 3000},
-		{"name": "할로윈 바닥", "id": [13225, "33A9"], "internal_name": "RoomFloor_13225", "price": 12000}
+		{"name": "할로윈 바닥", "id": [13225, "33A9"], "internal_name": "RoomFloor_13225", "price": 12000},
+		{"name": "하베스트 바닥", "id": [13319, "3407"], "internal_name": "RoomFloor_13319", "price": 3000}
 	],
 	"STR_ItemName_52_RoomRug": [
 		{"name": "핑크 하트 러그", "id": [7322, "1C9A"], "internal_name": "Rug_07322", "price": 1500},
@@ -2463,6 +2498,7 @@
 		{"name": "오렌지 심플 매트 S", "id": [7541, "1D75"], "internal_name": "Rug_07541", "price": 1000},
 		{"name": "보라 심플 매트 S", "id": [7542, "1D76"], "internal_name": "Rug_07542", "price": 1000},
 		{"name": "검정 심플 매트 S", "id": [7543, "1D77"], "internal_name": "Rug_07543", "price": 1000},
+		{"name": "크리스마스 러그", "id": [7544, "1D78"], "internal_name": "Rug_07544", "price": 6000, "DiyRecipe": [746, "02EA"]},
 		{"name": "할로윈 러그", "id": [7545, "1D79"], "internal_name": "Rug_07545", "price": 8000},
 		{"name": "이스터 러그", "id": [7546, "1D7A"], "internal_name": "Rug_07546", "price": 9600, "DiyRecipe": [709, "02C5"]},
 		{"name": "화이트 하트 러그", "id": [7578, "1D9A"], "internal_name": "Rug_07578", "price": 1500},
@@ -2510,6 +2546,7 @@
 		{"name": "밝은 대나무 러그", "id": [11113, "2B69"], "internal_name": "Rug_11113", "price": 9600, "DiyRecipe": [671, "029F"]},
 		{"name": "어두운 대나무 러그", "id": [11114, "2B6A"], "internal_name": "Rug_11114", "price": 3840, "DiyRecipe": [672, "02A0"]},
 		{"name": "벨 주머니 러그", "id": [12214, "2FB6"], "internal_name": "Rug_12214", "price": 24000},
+		{"name": "여름 조개껍데기 러그", "id": [12217, "2FB9"], "internal_name": "Rug_12217", "price": 28800, "DiyRecipe": [757, "02F5"]},
 		{"name": "Nook Inc. 보태니컬 러그", "id": [12325, "3025"], "internal_name": "Rug_12325", "price": 20000},
 		{"name": "Nook Inc. 사각 러그", "id": [12396, "306C"], "internal_name": "Rug_12396", "price": 12000},
 		{"name": "하늘색 웨딩 러그", "id": [12462, "30AE"], "internal_name": "Rug_12462", "price": 1500},
@@ -2517,7 +2554,9 @@
 		{"name": "빨간 웨딩 러그", "id": [12465, "30B1"], "internal_name": "Rug_12465", "price": 1500},
 		{"name": "머메이드 러그", "id": [12563, "3113"], "internal_name": "Rug_12563", "price": 41440, "DiyRecipe": [728, "02D8"]},
 		{"name": "해적 러그", "id": [12564, "3114"], "internal_name": "Rug_12564", "price": 1500},
-		{"name": "보름달 러그", "id": [13287, "33E7"], "internal_name": "Rug_13287", "price": 2000}
+		{"name": "보름달 러그", "id": [13287, "33E7"], "internal_name": "Rug_13287", "price": 2000},
+		{"name": "하베스트 러그", "id": [13525, "34D5"], "internal_name": "Rug_13525", "price": 2000},
+		{"name": "해바라기 러그", "id": [13596, "351C"], "internal_name": "Rug_13596", "price": 1500}
 	],
 	"STR_ItemName_61_HouseDoorDeco": [
 		{"name": "코스모스 리스", "id": [4293, "10C5"], "internal_name": "DoorDeco_04293", "price": 2880, "DiyRecipe": [227, "00E3"]},
@@ -2562,7 +2601,9 @@
 		{"name": "다크 튤립 리스", "id": [5771, "168B"], "internal_name": "DoorDeco_05771", "price": 6400, "DiyRecipe": [362, "016A"]},
 		{"name": "파란 장미 리스", "id": [5772, "168C"], "internal_name": "DoorDeco_05772", "price": 80000, "DiyRecipe": [447, "01BF"]},
 		{"name": "금장미 리스", "id": [5820, "16BC"], "internal_name": "DoorDeco_05820", "price": 80000, "DiyRecipe": [449, "01C1"]},
-		{"name": "이스터 리스", "id": [12517, "30E5"], "internal_name": "DoorDeco_12517", "price": 9600, "DiyRecipe": [707, "02C3"]}
+		{"name": "이스터 리스", "id": [12517, "30E5"], "internal_name": "DoorDeco_12517", "price": 9600, "DiyRecipe": [707, "02C3"]},
+		{"name": "크리스마스 리스", "id": [13357, "342D"], "internal_name": "DoorDeco_13357", "price": 1500},
+		{"name": "일본 금줄 장식", "id": [13501, "34BD"], "internal_name": "DoorDeco_13501", "price": 2000}
 	],
 	"STR_ItemName_62_HousePost": [
 		{"name": "일반 우편함", "id": [2571, "0A0B"], "internal_name": "HousePost_02571", "price": 0},
@@ -2635,7 +2676,8 @@
 		{"name": "사수자리 조각", "id": [5996, "176C"], "internal_name": "StarPiece_05996", "price": 2000},
 		{"name": "단풍잎", "id": [7374, "1CCE"], "internal_name": "AutumnLeaf_07374", "price": 800},
 		{"name": "스마트폰 케이스 리폼 키트", "id": [8760, "2238"], "internal_name": "CraftPhoneCase_08760", "price": 36000},
-		{"name": "진주", "id": [12968, "32A8"], "internal_name": "CraftMaterial_12968", "price": 40000}
+		{"name": "진주", "id": [12968, "32A8"], "internal_name": "CraftMaterial_12968", "price": 40000},
+		{"name": "포켓 캠프 스마트폰 케이스", "id": [13439, "347F"], "internal_name": "CraftPhoneCase_13439", "price": 2000}
 	],
 	"STR_ItemName_80_Etc": [
 		{"name": "함정 씨앗", "id": [2578, "0A12"], "internal_name": "PitFallSeed_02578", "price": 560, "DiyRecipe": [264, "0108"]},
@@ -2753,7 +2795,16 @@
 		{"name": "Nook Inc. 손 깃발", "id": [13128, "3348"], "internal_name": "HandheldPennant_13128", "price": 10000},
 		{"name": "꿈의 벨 교환권", "id": [13228, "33AC"], "internal_name": "MilePlaneTicket_13228", "price": 20000},
 		{"name": "변신! 컬러풀 보디 페인팅", "id": [13256, "33C8"], "internal_name": "DummyHowtoBook_13256", "price": 48000},
-		{"name": "매력 만점! 컬러 렌즈 모음", "id": [13257, "33C9"], "internal_name": "DummyHowtoBook_13257", "price": 48000}
+		{"name": "매력 만점! 컬러 렌즈 모음", "id": [13257, "33C9"], "internal_name": "DummyHowtoBook_13257", "price": 48000},
+		{"name": "이사 키트", "id": [13346, "3422"], "internal_name": "HousingKit_13346", "price": 40},
+		{"name": "최신 유행! 리액션 도감", "id": [13610, "352A"], "internal_name": "DummyHowtoBook_13610", "price": 54000},
+		{"name": "조금 더! 헤어스타일×6", "id": [13766, "35C6"], "internal_name": "DummyHowtoBook_13766", "price": 36000},
+		{"name": "삶에 풍요를! 하베스트 DIY 레시피", "id": [13787, "35DB"], "internal_name": "DummyRecipe_13787", "price": 19800},
+		{"name": "크리스마스 포장지", "id": [13792, "35E0"], "internal_name": "WrappingPaper_13792", "price": 1200, "DiyRecipe": [751, "02EF"]},
+		{"name": "선물", "id": [13793, "35E1"], "internal_name": "DummyWrapping_13793", "price": 888},
+		{"name": "스파클링 사이다", "id": [13835, "360B"], "internal_name": "JuiceFuzzyapple_13835", "price": 1000},
+		{"name": "선물 보따리", "id": [13836, "360C"], "internal_name": "BigbagPresent_13836", "price": 888},
+		{"name": "누군가의 선물", "id": [13869, "362D"], "internal_name": "QuestChristmasPresentbox_13869", "price": 888}
 	],
 	"STR_ItemName_81_Event": [
 		{"name": "분실물", "id": [2374, "0946"], "internal_name": "LostQuest_02374", "price": 0},
@@ -2786,7 +2837,15 @@
 		{"name": "사랑의 결정", "id": [12546, "3102"], "internal_name": "LoveCrystal_12546", "price": 400},
 		{"name": "통신 장치", "id": [13105, "3331"], "internal_name": "PirateQuest_13105", "price": 888},
 		{"name": "롤리팝", "id": [13196, "338C"], "internal_name": "Candy_13196", "price": 480},
-		{"name": "사탕", "id": [13197, "338D"], "internal_name": "Candy_13197", "price": 120}
+		{"name": "사탕", "id": [13197, "338D"], "internal_name": "Candy_13197", "price": 120},
+		{"name": "생선 뫼니에르", "id": [13779, "35D3"], "internal_name": "HarvestDish_13779", "price": 888},
+		{"name": "그라탱", "id": [13780, "35D4"], "internal_name": "HarvestDish_13780", "price": 888},
+		{"name": "클램 차우더", "id": [13781, "35D5"], "internal_name": "HarvestDish_13781", "price": 888},
+		{"name": "호박파이", "id": [13782, "35D6"], "internal_name": "HarvestDish_13782", "price": 888},
+		{"name": "クラムチャウダーHaPu", "id": [13800, "35E8"], "internal_name": "HarvestDish_13800", "price": 888},
+		{"name": "パンプキンパイHaPu", "id": [13801, "35E9"], "internal_name": "HarvestDish_13801", "price": 888},
+		{"name": "サカナのムニエルHaPu", "id": [13802, "35EA"], "internal_name": "HarvestDish_13802", "price": 888},
+		{"name": "グラタンHaPu", "id": [13803, "35EB"], "internal_name": "HarvestDish_13803", "price": 888}
 	],
 	"STR_ItemName_82_Music": [
 		{"name": "K.K.찬송가", "id": [2405, "0965"], "internal_name": "Music_02405", "price": 3200},
@@ -3301,7 +3360,8 @@
 		{"name": "잭슨의 사진", "id": [6996, "1B54"], "internal_name": "Bromide_06996", "price": 40},
 		{"name": "펑크스의 사진", "id": [6997, "1B55"], "internal_name": "Bromide_06997", "price": 40},
 		{"name": "래미의 사진", "id": [7212, "1C2C"], "internal_name": "Bromide_07212", "price": 40},
-		{"name": "차둘의 사진", "id": [7213, "1C2D"], "internal_name": "Bromide_07213", "price": 40}
+		{"name": "차둘의 사진", "id": [7213, "1C2D"], "internal_name": "Bromide_07213", "price": 40},
+		{"name": "루돌의 사진", "id": [13862, "3626"], "internal_name": "Bromide_13862", "price": 40}
 	],
 	"STR_ItemName_85_BridgeSlope": [
 		{"name": "돌 계단", "id": [5863, "16E7"], "internal_name": "SlopeItem_05863", "price": 168000},
@@ -4013,6 +4073,7 @@
 		{"name": "사이버 선글라스", "color": "레드", "id": [4552, "11C8"], "price": 1300},
 		{"name": "사이버 선글라스", "color": "블랙", "id": [11498, "2CEA"], "price": 1300},
 		{"name": "사이버 선글라스", "color": "실버", "id": [11499, "2CEB"], "price": 1300},
+		{"name": "산타 수염", "color": "화이트", "id": [4492, "118C"], "price": 1480},
 		{"name": "삼각 선글라스", "color": "레드", "id": [4242, "1092"], "price": 880},
 		{"name": "삼각 선글라스", "color": "오렌지", "id": [11203, "2BC3"], "price": 880},
 		{"name": "삼각 선글라스", "color": "블루", "id": [11204, "2BC4"], "price": 880},
@@ -4515,6 +4576,7 @@
 		{"name": "보아 스커트", "color": "레드", "id": [9109, "2395"], "price": 1300},
 		{"name": "보태니컬 반바지", "color": "화이트", "id": [9193, "23E9"], "price": 700},
 		{"name": "보태니컬 반바지", "color": "블랙", "id": [5854, "16DE"], "price": 700},
+		{"name": "산타 바지", "color": "레드", "id": [3391, "0D3F"], "price": 2150},
 		{"name": "새틴 바지", "color": "라이트 퍼플", "id": [9720, "25F8"], "price": 880},
 		{"name": "새틴 바지", "color": "핑크", "id": [9721, "25F9"], "price": 880},
 		{"name": "새틴 바지", "color": "다크 레드", "id": [9722, "25FA"], "price": 880},
@@ -5116,6 +5178,7 @@
 		{"name": "사이클 야구 모자", "color": "블루×퍼플", "id": [11674, "2D9A"], "price": 1100},
 		{"name": "사이클 야구 모자", "color": "블랙×블루", "id": [11668, "2D94"], "price": 1100},
 		{"name": "사이클 야구 모자", "color": "블랙×레드", "id": [11669, "2D95"], "price": 1100},
+		{"name": "산타 모자", "color": "레드", "id": [5306, "14BA"], "price": 2000},
 		{"name": "삼각 두건", "color": "블루", "id": [10744, "29F8"], "price": 560},
 		{"name": "삼각 두건", "color": "레드", "id": [10745, "29F9"], "price": 560},
 		{"name": "삼각 두건", "color": "핑크", "id": [10746, "29FA"], "price": 560},
@@ -5438,7 +5501,6 @@
 		{"name": "피에로 모자", "color": "그린＆레드", "id": [11862, "2E56"], "price": 1900},
 		{"name": "피에로 모자", "color": "퍼플＆옐로", "id": [5385, "1509"], "price": 1900},
 		{"name": "하늘을 나는 달걀 껍질", "color": "블루", "id": [12443, "309B"], "price": 3200, "DiyRecipe": [685, "02AD"]},
-		{"name": "하지 화관", "color": "옐로", "id": [12577, "3121"], "price": 1560},
 		{"name": "하트 머리핀", "color": "레드", "id": [12165, "2F85"], "price": 700},
 		{"name": "하트 머리핀", "color": "그린", "id": [12166, "2F86"], "price": 700},
 		{"name": "하트 머리핀", "color": "블루", "id": [12167, "2F87"], "price": 700},
@@ -5455,6 +5517,7 @@
 		{"name": "학생모", "color": "퍼플", "id": [11824, "2E30"], "price": 1040},
 		{"name": "학생모", "color": "그레이", "id": [11825, "2E31"], "price": 1040},
 		{"name": "학생모", "color": "블루", "id": [11826, "2E32"], "price": 1040},
+		{"name": "해바라기 화관", "color": "옐로", "id": [12577, "3121"], "price": 1560},
 		{"name": "해적 모자", "color": "블랙", "id": [5142, "1416"], "price": 3440},
 		{"name": "해적 반다나", "color": "블루", "id": [13088, "3320"], "price": 800},
 		{"name": "해적 반다나", "color": "블랙", "id": [13089, "3321"], "price": 800},
@@ -5559,6 +5622,7 @@
 		{"name": "럭비 헬멧", "color": "그린", "id": [5373, "14FD"], "price": 1440},
 		{"name": "럭비 헬멧", "color": "블랙", "id": [11610, "2D5A"], "price": 1440},
 		{"name": "록 밴드 스타일 가발", "color": "헤어 컬러", "id": [5832, "16C8"], "price": 1400},
+		{"name": "루돌프 모자", "color": "브라운", "id": [5446, "1546"], "price": 1120},
 		{"name": "리젠트", "color": "헤어 컬러", "id": [5689, "1639"], "price": 1280},
 		{"name": "마법 학교 후드", "color": "오렌지", "id": [13003, "32CB"], "price": 1040},
 		{"name": "마법 학교 후드", "color": "퍼플", "id": [13398, "3456"], "price": 1040},
@@ -5951,6 +6015,7 @@
 		{"name": "롱 패딩", "color": "그린", "id": [8326, "2086"], "price": 1900},
 		{"name": "롱 패딩", "color": "화이트", "id": [8327, "2087"], "price": 1900},
 		{"name": "롱 패딩", "color": "퍼플", "id": [8328, "2088"], "price": 1900},
+		{"name": "루돌프 의상", "color": "브라운", "id": [4511, "119F"], "price": 1700},
 		{"name": "룸바 드레스", "color": "오렌지", "id": [9528, "2538"], "price": 2600},
 		{"name": "룸바 드레스", "color": "핑크", "id": [9529, "2539"], "price": 2600},
 		{"name": "룸바 드레스", "color": "레드", "id": [5645, "160D"], "price": 2600},
@@ -7672,7 +7737,6 @@
 		{"name": "돌리 셔츠", "color": "블루", "id": [11952, "2EB0"], "price": 960},
 		{"name": "돌리 셔츠", "color": "옐로", "id": [11953, "2EB1"], "price": 960},
 		{"name": "돌리 셔츠", "color": "퍼플", "id": [11954, "2EB2"], "price": 960},
-		{"name": "동지 스웨터", "color": "베이지", "id": [12959, "329F"], "price": 1200},
 		{"name": "라이더 재킷", "color": "브라운", "id": [8559, "216F"], "price": 1750},
 		{"name": "라이더 재킷", "color": "베이지", "id": [8560, "2170"], "price": 1750},
 		{"name": "라이더 재킷", "color": "레드", "id": [8561, "2171"], "price": 1750},
@@ -7917,6 +7981,7 @@
 		{"name": "사이키델릭 셔츠", "color": "오렌지", "id": [9832, "2668"], "price": 1440},
 		{"name": "사이키델릭 셔츠", "color": "그린", "id": [11957, "2EB5"], "price": 1440},
 		{"name": "사이키델릭 셔츠", "color": "레드", "id": [11958, "2EB6"], "price": 1440},
+		{"name": "산타 재킷", "color": "레드", "id": [3390, "0D3E"], "price": 2600},
 		{"name": "세일러 셔츠", "color": "네이비", "id": [5621, "15F5"], "price": 1050},
 		{"name": "세일러 셔츠", "color": "라이트 블루", "id": [7567, "1D8F"], "price": 1050},
 		{"name": "세일러 셔츠", "color": "화이트", "id": [7568, "1D90"], "price": 1050},
@@ -8572,6 +8637,7 @@
 		{"name": "학생복", "color": "블루", "id": [7553, "1D81"], "price": 1400},
 		{"name": "학생복", "color": "와인 레드", "id": [7548, "1D7C"], "price": 1400},
 		{"name": "학생복", "color": "그린", "id": [7549, "1D7D"], "price": 1400},
+		{"name": "한겨울 스웨터", "color": "베이지", "id": [12959, "329F"], "price": 1200},
 		{"name": "한자 티셔츠", "color": "핑크", "id": [8424, "20E8"], "price": 640},
 		{"name": "한자 티셔츠", "color": "블루", "id": [8425, "20E9"], "price": 640},
 		{"name": "한자 티셔츠", "color": "블랙", "id": [8426, "20EA"], "price": 640},

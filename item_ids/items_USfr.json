@@ -81,6 +81,7 @@
 		{"name": "moulin à café", "id": [920, "0398"], "internal_name": "Ftr_00920", "price": 2200},
 		{"name": "porte-casseroles", "id": [928, "03A0"], "internal_name": "Ftr_00928", "price": 3000},
 		{"name": "climatiseur", "id": [929, "03A1"], "internal_name": "Ftr_00929", "price": 63000},
+		{"name": "corne d'abondance", "id": [931, "03A3"], "internal_name": "Ftr_00931", "price": 10000},
 		{"name": "jeu de fléchettes", "id": [937, "03A9"], "internal_name": "Ftr_00937", "price": 5200},
 		{"name": "platine de DJ", "id": [941, "03AD"], "internal_name": "Ftr_00941", "price": 9300},
 		{"name": "sono", "id": [950, "03B6"], "internal_name": "Ftr_00950", "price": 6800},
@@ -93,6 +94,8 @@
 		{"name": "harpe", "id": [987, "03DB"], "internal_name": "Ftr_00987", "price": 130000},
 		{"name": "porte-encens", "id": [997, "03E5"], "internal_name": "Ftr_00997", "price": 880},
 		{"name": "îlot de cuisine", "id": [998, "03E6"], "internal_name": "Ftr_00998", "price": 170000},
+		{"name": "kadomatsu", "id": [1004, "03EC"], "internal_name": "Ftr_01004", "price": 2580},
+		{"name": "kagamimochi", "id": [1005, "03ED"], "internal_name": "Ftr_01005", "price": 1800},
 		{"name": "tas de feuilles", "id": [1023, "03FF"], "internal_name": "Ftr_01023", "price": 5200, "DiyRecipe": [586, "024A"]},
 		{"name": "panneau bas", "id": [1029, "0405"], "internal_name": "Ftr_01029", "price": 870},
 		{"name": "porte-revues pliable", "id": [1032, "0408"], "internal_name": "Ftr_01032", "price": 2760, "DiyRecipe": [413, "019D"]},
@@ -872,8 +875,36 @@
 		{"name": "lit de Serena", "id": [13221, "33A5"], "internal_name": "Ftr_13221", "price": 3600},
 		{"name": "guirlande frisson", "id": [13222, "33A6"], "internal_name": "Ftr_13222", "price": 6600, "DiyRecipe": [734, "02DE"]},
 		{"name": "déco de table frisson", "id": [13223, "33A7"], "internal_name": "Ftr_13223", "price": 6600, "DiyRecipe": [735, "02DF"]},
+		{"name": "traîneau jour des cadeaux", "id": [13241, "33B9"], "internal_name": "Ftr_13241", "price": 80000},
+		{"name": "hélicoptère téléguidé", "id": [13242, "33BA"], "internal_name": "Ftr_13242", "price": 3600},
+		{"name": "peluche de chiot", "id": [13243, "33BB"], "internal_name": "Ftr_13243", "price": 2400},
+		{"name": "pile de cadeaux", "id": [13244, "33BC"], "internal_name": "Ftr_13244", "price": 2640, "DiyRecipe": [750, "02EE"]},
+		{"name": "bûche au chocolat", "id": [13245, "33BD"], "internal_name": "Ftr_13245", "price": 1200},
+		{"name": "livre animé", "id": [13246, "33BE"], "internal_name": "Ftr_13246", "price": 2000},
+		{"name": "robot en métal", "id": [13247, "33BF"], "internal_name": "Ftr_13247", "price": 3500},
+		{"name": "lot de bas décoratifs", "id": [13248, "33C0"], "internal_name": "Ftr_13248", "price": 2000},
+		{"name": "tente pour enfants", "id": [13249, "33C1"], "internal_name": "Ftr_13249", "price": 4500},
+		{"name": "circuit miniature", "id": [13250, "33C2"], "internal_name": "Ftr_13250", "price": 3800},
+		{"name": "jouet dinosaure", "id": [13251, "33C3"], "internal_name": "Ftr_13251", "price": 2400},
+		{"name": "maison de poupée", "id": [13252, "33C4"], "internal_name": "Ftr_13252", "price": 4000},
 		{"name": "Ring-Con", "id": [13293, "33ED"], "internal_name": "Ftr_13293", "price": 4950},
-		{"name": "portrait de Jacqu'O", "id": [13353, "3429"], "internal_name": "Ftr_13353", "price": 8000}
+		{"name": "portrait de Jacqu'O", "id": [13353, "3429"], "internal_name": "Ftr_13353", "price": 8000},
+		{"name": "socle fête du partage", "id": [13447, "3487"], "internal_name": "Ftr_13447", "price": 3600, "DiyRecipe": [740, "02E4"]},
+		{"name": "âtre fête du partage", "id": [13448, "3488"], "internal_name": "Ftr_13448", "price": 13000, "DiyRecipe": [741, "02E5"]},
+		{"name": "déco fête du partage", "id": [13449, "3489"], "internal_name": "Ftr_13449", "price": 2000, "DiyRecipe": [742, "02E6"]},
+		{"name": "chaise fête du partage", "id": [13450, "348A"], "internal_name": "Ftr_13450", "price": 2200, "DiyRecipe": [743, "02E7"]},
+		{"name": "table fête du partage", "id": [13453, "348D"], "internal_name": "Ftr_13453", "price": 4500, "DiyRecipe": [745, "02E9"]},
+		{"name": "yut nori", "id": [13459, "3493"], "internal_name": "Ftr_13459", "price": 1300},
+		{"name": "plat de raisins", "id": [13462, "3496"], "internal_name": "Ftr_13462", "price": 1200},
+		{"name": "beigne", "id": [13463, "3497"], "internal_name": "Ftr_13463", "price": 1200},
+		{"name": "figurine année du buffle", "id": [13490, "34B2"], "internal_name": "Ftr_13490", "price": 1600},
+		{"name": "arche Nouvel An 2021", "id": [13543, "34E7"], "internal_name": "Ftr_13543", "price": 2021},
+		{"name": "soupe du Nouvel An", "id": [13797, "35E5"], "internal_name": "Ftr_13797", "price": 1300},
+		{"name": "salade Olivier", "id": [13799, "35E7"], "internal_name": "Ftr_13799", "price": 1000},
+		{"name": "plat à gratin jour du partage", "id": [13818, "35FA"], "internal_name": "Ftr_13818", "price": 7000, "DiyRecipe": [747, "02EB"]},
+		{"name": "décor de blé du partage", "id": [13819, "35FB"], "internal_name": "Ftr_13819", "price": 800, "DiyRecipe": [748, "02EC"]},
+		{"name": "service fête du partage", "id": [13820, "35FC"], "internal_name": "Ftr_13820", "price": 4000, "DiyRecipe": [749, "02ED"]},
+		{"name": "lot de bas décoratifs", "id": [13930, "366A"], "internal_name": "Ftr_13930", "price": 2000}
 	],
 	"STR_ItemName_01_Art": [
 		{"name": "toile hivernale", "id": [2, "0002"], "internal_name": "Picture_00002", "price": 4980},
@@ -2197,7 +2228,10 @@
 		{"name": "mur sirène", "id": [12566, "3116"], "internal_name": "RoomWall_12566", "price": 94080, "DiyRecipe": [729, "02D9"]},
 		{"name": "mur pirate", "id": [12567, "3117"], "internal_name": "RoomWall_12567", "price": 3000},
 		{"name": "mur Halloween", "id": [13224, "33A8"], "internal_name": "RoomWall_13224", "price": 12000},
-		{"name": "mur feux d'artifice", "id": [13230, "33AE"], "internal_name": "RoomWall_13230", "price": 3000}
+		{"name": "mur feux d'artifice", "id": [13230, "33AE"], "internal_name": "RoomWall_13230", "price": 3000},
+		{"name": "mur fête du partage", "id": [13318, "3406"], "internal_name": "RoomWall_13318", "price": 3000},
+		{"name": "mur chute de neige", "id": [13603, "3523"], "internal_name": "RoomWall_13603", "price": 10800, "DiyRecipe": [752, "02F0"]},
+		{"name": "mur aurore polaire", "id": [13609, "3529"], "internal_name": "RoomWall_13609", "price": 7000}
 	],
 	"STR_ItemName_51_RoomFloor": [
 		{"name": "sol de cave", "id": [4797, "12BD"], "internal_name": "RoomFloor_04797", "price": 6000, "DiyRecipe": [474, "01DA"]},
@@ -2378,7 +2412,8 @@
 		{"name": "sol mariage vert", "id": [12434, "3092"], "internal_name": "RoomFloor_12434", "price": 3000},
 		{"name": "sol sirène", "id": [12568, "3118"], "internal_name": "RoomFloor_12568", "price": 83900, "DiyRecipe": [730, "02DA"]},
 		{"name": "sol pirate", "id": [12569, "3119"], "internal_name": "RoomFloor_12569", "price": 3000},
-		{"name": "sol Halloween", "id": [13225, "33A9"], "internal_name": "RoomFloor_13225", "price": 12000}
+		{"name": "sol Halloween", "id": [13225, "33A9"], "internal_name": "RoomFloor_13225", "price": 12000},
+		{"name": "sol fête du partage", "id": [13319, "3407"], "internal_name": "RoomFloor_13319", "price": 3000}
 	],
 	"STR_ItemName_52_RoomRug": [
 		{"name": "tapis amour rose", "id": [7322, "1C9A"], "internal_name": "Rug_07322", "price": 1500},
@@ -2463,6 +2498,7 @@
 		{"name": "tapis simple orange P", "id": [7541, "1D75"], "internal_name": "Rug_07541", "price": 1000},
 		{"name": "tapis simple mauve P", "id": [7542, "1D76"], "internal_name": "Rug_07542", "price": 1000},
 		{"name": "tapis simple noir P", "id": [7543, "1D77"], "internal_name": "Rug_07543", "price": 1000},
+		{"name": "tapis des Fêtes", "id": [7544, "1D78"], "internal_name": "Rug_07544", "price": 6000, "DiyRecipe": [746, "02EA"]},
 		{"name": "tapis frisson", "id": [7545, "1D79"], "internal_name": "Rug_07545", "price": 8000},
 		{"name": "tapis fête des œufs", "id": [7546, "1D7A"], "internal_name": "Rug_07546", "price": 9600, "DiyRecipe": [709, "02C5"]},
 		{"name": "tapis amour blanc", "id": [7578, "1D9A"], "internal_name": "Rug_07578", "price": 1500},
@@ -2510,6 +2546,7 @@
 		{"name": "tapis bambou clair", "id": [11113, "2B69"], "internal_name": "Rug_11113", "price": 9600, "DiyRecipe": [671, "029F"]},
 		{"name": "tapis bambou sombre", "id": [11114, "2B6A"], "internal_name": "Rug_11114", "price": 3840, "DiyRecipe": [672, "02A0"]},
 		{"name": "tapis sac de clochettes", "id": [12214, "2FB6"], "internal_name": "Rug_12214", "price": 24000},
+		{"name": "tapis coquillage estival", "id": [12217, "2FB9"], "internal_name": "Rug_12217", "price": 28800, "DiyRecipe": [757, "02F5"]},
 		{"name": "tapis botanique Nook Inc.", "id": [12325, "3025"], "internal_name": "Rug_12325", "price": 20000},
 		{"name": "tapis en soie Nook Inc.", "id": [12396, "306C"], "internal_name": "Rug_12396", "price": 12000},
 		{"name": "tapis mariage bleu", "id": [12462, "30AE"], "internal_name": "Rug_12462", "price": 1500},
@@ -2517,7 +2554,9 @@
 		{"name": "tapis mariage rouge", "id": [12465, "30B1"], "internal_name": "Rug_12465", "price": 1500},
 		{"name": "tapis sirène", "id": [12563, "3113"], "internal_name": "Rug_12563", "price": 41440, "DiyRecipe": [728, "02D8"]},
 		{"name": "tapis pirate", "id": [12564, "3114"], "internal_name": "Rug_12564", "price": 1500},
-		{"name": "tapis lune", "id": [13287, "33E7"], "internal_name": "Rug_13287", "price": 2000}
+		{"name": "tapis lune", "id": [13287, "33E7"], "internal_name": "Rug_13287", "price": 2000},
+		{"name": "tapis fête du partage", "id": [13525, "34D5"], "internal_name": "Rug_13525", "price": 2000},
+		{"name": "tapis tournesol", "id": [13596, "351C"], "internal_name": "Rug_13596", "price": 1500}
 	],
 	"STR_ItemName_61_HouseDoorDeco": [
 		{"name": "couronne cosmos", "id": [4293, "10C5"], "internal_name": "DoorDeco_04293", "price": 2880, "DiyRecipe": [227, "00E3"]},
@@ -2562,7 +2601,9 @@
 		{"name": "couronne tulipes sombre", "id": [5771, "168B"], "internal_name": "DoorDeco_05771", "price": 6400, "DiyRecipe": [362, "016A"]},
 		{"name": "couronne roses bleues", "id": [5772, "168C"], "internal_name": "DoorDeco_05772", "price": 80000, "DiyRecipe": [447, "01BF"]},
 		{"name": "couronne roses dorées", "id": [5820, "16BC"], "internal_name": "DoorDeco_05820", "price": 80000, "DiyRecipe": [449, "01C1"]},
-		{"name": "couronne fête des œufs", "id": [12517, "30E5"], "internal_name": "DoorDeco_12517", "price": 9600, "DiyRecipe": [707, "02C3"]}
+		{"name": "couronne fête des œufs", "id": [12517, "30E5"], "internal_name": "DoorDeco_12517", "price": 9600, "DiyRecipe": [707, "02C3"]},
+		{"name": "couronne de sapin", "id": [13357, "342D"], "internal_name": "DoorDeco_13357", "price": 1500},
+		{"name": "shimekazari de Nouvel An", "id": [13501, "34BD"], "internal_name": "DoorDeco_13501", "price": 2000}
 	],
 	"STR_ItemName_62_HousePost": [
 		{"name": "boîte aux lettres ordinaire", "id": [2571, "0A0B"], "internal_name": "HousePost_02571", "price": 0},
@@ -2635,7 +2676,8 @@
 		{"name": "fragment de Sagittaire", "id": [5996, "176C"], "internal_name": "StarPiece_05996", "price": 2000},
 		{"name": "feuille d'érable", "id": [7374, "1CCE"], "internal_name": "AutumnLeaf_07374", "price": 800},
 		{"name": "kit coque personnalisable", "id": [8760, "2238"], "internal_name": "CraftPhoneCase_08760", "price": 36000},
-		{"name": "perle", "id": [12968, "32A8"], "internal_name": "CraftMaterial_12968", "price": 40000}
+		{"name": "perle", "id": [12968, "32A8"], "internal_name": "CraftMaterial_12968", "price": 40000},
+		{"name": "coque Pocket Camp", "id": [13439, "347F"], "internal_name": "CraftPhoneCase_13439", "price": 2000}
 	],
 	"STR_ItemName_80_Etc": [
 		{"name": "piège", "id": [2578, "0A12"], "internal_name": "PitFallSeed_02578", "price": 560, "DiyRecipe": [264, "0108"]},
@@ -2753,7 +2795,16 @@
 		{"name": "fanion portable Nook Inc.", "id": [13128, "3348"], "internal_name": "HandheldPennant_13128", "price": 10000},
 		{"name": "ticket rêve de clochettes ", "id": [13228, "33AC"], "internal_name": "MilePlaneTicket_13228", "price": 20000},
 		{"name": "ABC de peinture corporelle", "id": [13256, "33C8"], "internal_name": "DummyHowtoBook_13256", "price": 48000},
-		{"name": "Varier la couleur des yeux", "id": [13257, "33C9"], "internal_name": "DummyHowtoBook_13257", "price": 48000}
+		{"name": "Varier la couleur des yeux", "id": [13257, "33C9"], "internal_name": "DummyHowtoBook_13257", "price": 48000},
+		{"name": "kit transfert", "id": [13346, "3422"], "internal_name": "HousingKit_13346", "price": 40},
+		{"name": "Fanatique des mimiques", "id": [13610, "352A"], "internal_name": "DummyHowtoBook_13610", "price": 54000},
+		{"name": "6 coiffures qui décoiffent", "id": [13766, "35C6"], "internal_name": "DummyHowtoBook_13766", "price": 36000},
+		{"name": "Bricolages du partage", "id": [13787, "35DB"], "internal_name": "DummyRecipe_13787", "price": 19800},
+		{"name": "papier cadeau festif", "id": [13792, "35E0"], "internal_name": "WrappingPaper_13792", "price": 1200, "DiyRecipe": [751, "02EF"]},
+		{"name": "cadeau", "id": [13793, "35E1"], "internal_name": "DummyWrapping_13793", "price": 888},
+		{"name": "boisson pétillante festive", "id": [13835, "360B"], "internal_name": "JuiceFuzzyapple_13835", "price": 1000},
+		{"name": "sac à cadeaux", "id": [13836, "360C"], "internal_name": "BigbagPresent_13836", "price": 888},
+		{"name": "cadeau de quelqu'un", "id": [13869, "362D"], "internal_name": "QuestChristmasPresentbox_13869", "price": 888}
 	],
 	"STR_ItemName_81_Event": [
 		{"name": "objet perdu", "id": [2374, "0946"], "internal_name": "LostQuest_02374", "price": 0},
@@ -2786,7 +2837,15 @@
 		{"name": "cristal d'amour", "id": [12546, "3102"], "internal_name": "LoveCrystal_12546", "price": 400},
 		{"name": "émetteur", "id": [13105, "3331"], "internal_name": "PirateQuest_13105", "price": 888},
 		{"name": "suçon", "id": [13196, "338C"], "internal_name": "Candy_13196", "price": 480},
-		{"name": "bonbon", "id": [13197, "338D"], "internal_name": "Candy_13197", "price": 120}
+		{"name": "bonbon", "id": [13197, "338D"], "internal_name": "Candy_13197", "price": 120},
+		{"name": "poisson meunière", "id": [13779, "35D3"], "internal_name": "HarvestDish_13779", "price": 888},
+		{"name": "gratin", "id": [13780, "35D4"], "internal_name": "HarvestDish_13780", "price": 888},
+		{"name": "chaudrée de palourdes", "id": [13781, "35D5"], "internal_name": "HarvestDish_13781", "price": 888},
+		{"name": "tarte à la citrouille", "id": [13782, "35D6"], "internal_name": "HarvestDish_13782", "price": 888},
+		{"name": "クラムチャウダーHaPu", "id": [13800, "35E8"], "internal_name": "HarvestDish_13800", "price": 888},
+		{"name": "パンプキンパイHaPu", "id": [13801, "35E9"], "internal_name": "HarvestDish_13801", "price": 888},
+		{"name": "サカナのムニエルHaPu", "id": [13802, "35EA"], "internal_name": "HarvestDish_13802", "price": 888},
+		{"name": "グラタンHaPu", "id": [13803, "35EB"], "internal_name": "HarvestDish_13803", "price": 888}
 	],
 	"STR_ItemName_82_Music": [
 		{"name": "Chorale de Kéké", "id": [2405, "0965"], "internal_name": "Music_02405", "price": 3200},
@@ -3301,7 +3360,8 @@
 		{"name": "photo de Raymond", "id": [6996, "1B54"], "internal_name": "Bromide_06996", "price": 40},
 		{"name": "photo de Punk", "id": [6997, "1B55"], "internal_name": "Bromide_06997", "price": 40},
 		{"name": "photo de Capri", "id": [7212, "1C2C"], "internal_name": "Bromide_07212", "price": 40},
-		{"name": "photo de Bouloche", "id": [7213, "1C2D"], "internal_name": "Bromide_07213", "price": 40}
+		{"name": "photo de Bouloche", "id": [7213, "1C2D"], "internal_name": "Bromide_07213", "price": 40},
+		{"name": "photo de Rodolphe", "id": [13862, "3626"], "internal_name": "Bromide_13862", "price": 40}
 	],
 	"STR_ItemName_85_BridgeSlope": [
 		{"name": "escalier en pierre", "id": [5863, "16E7"], "internal_name": "SlopeItem_05863", "price": 168000},
@@ -3896,6 +3956,7 @@
 	],
 	"clothing_Accessory": [
 		{"name": "barbe de pirate", "color": "Couleur de cheveux", "id": [12663, "3177"], "price": 980},
+		{"name": "barbe de père Noël", "color": "Blanc", "id": [4492, "118C"], "price": 1480},
 		{"name": "barbiche", "color": "Couleur de cheveux", "id": [4676, "1244"], "price": 980},
 		{"name": "bec", "color": "Jaune", "id": [3549, "0DDD"], "price": 490},
 		{"name": "boule de gomme", "color": "Bleu", "id": [11027, "2B13"], "price": 140},
@@ -4785,6 +4846,7 @@
 		{"name": "pantalon punk", "color": "Bleu", "id": [9255, "2427"], "price": 1820},
 		{"name": "pantalon punk", "color": "Vert", "id": [9256, "2428"], "price": 1820},
 		{"name": "pantalon punk", "color": "Mauve", "id": [9257, "2429"], "price": 1820},
+		{"name": "pantalon père Noël", "color": "Rouge", "id": [3391, "0D3F"], "price": 2150},
 		{"name": "pantalon rayé", "color": "Orange", "id": [9235, "2413"], "price": 1100},
 		{"name": "pantalon rayé", "color": "Vert", "id": [9236, "2414"], "price": 1100},
 		{"name": "pantalon rayé", "color": "Rouge", "id": [9237, "2415"], "price": 1100},
@@ -5357,7 +5419,7 @@
 		{"name": "coiffe roses bleues", "color": "Bleu", "id": [7377, "1CD1"], "price": 48000, "DiyRecipe": [459, "01CB"]},
 		{"name": "coiffe roses chic", "color": "Mauve", "id": [5113, "13F9"], "price": 11520, "DiyRecipe": [254, "00FE"]},
 		{"name": "coiffe roses dorées", "color": "Or", "id": [7378, "1CD2"], "price": 48000, "DiyRecipe": [460, "01CC"]},
-		{"name": "coiffe solstice d'été", "color": "Jaune", "id": [12577, "3121"], "price": 1560},
+		{"name": "coiffe tournesol", "color": "Jaune", "id": [12577, "3121"], "price": 1560},
 		{"name": "coiffe trésor pirate", "color": "Argent", "id": [12980, "32B4"], "price": 10000},
 		{"name": "coiffe tulipes", "color": "Multicolore", "id": [5102, "13EE"], "price": 1600, "DiyRecipe": [243, "00F3"]},
 		{"name": "coiffe tulipes chic", "color": "Multicolore", "id": [5103, "13EF"], "price": 5760, "DiyRecipe": [244, "00F4"]},
@@ -5464,6 +5526,7 @@
 		{"name": "tuque", "color": "Vert", "id": [11733, "2DD5"], "price": 560},
 		{"name": "tuque", "color": "Rose", "id": [11734, "2DD6"], "price": 560},
 		{"name": "tuque", "color": "Noir", "id": [5146, "141A"], "price": 560},
+		{"name": "tuque de père Noël", "color": "Rouge", "id": [5306, "14BA"], "price": 2000},
 		{"name": "épingle cœur", "color": "Rouge", "id": [12165, "2F85"], "price": 700},
 		{"name": "épingle cœur", "color": "Vert", "id": [12166, "2F86"], "price": 700},
 		{"name": "épingle cœur", "color": "Bleu", "id": [12167, "2F87"], "price": 700},
@@ -5647,6 +5710,7 @@
 		{"name": "coiffe de geisha", "color": "Mauve", "id": [9745, "2611"], "price": 5400},
 		{"name": "coiffe de geisha", "color": "Noir", "id": [9746, "2612"], "price": 5400},
 		{"name": "coiffe de geisha", "color": "Rouge", "id": [5695, "163F"], "price": 5400},
+		{"name": "coiffe de renne", "color": "Brun", "id": [5446, "1546"], "price": 1120},
 		{"name": "coiffe de samouraï", "color": "Couleur de cheveux", "id": [5690, "163A"], "price": 3200},
 		{"name": "diadème", "color": "Or rose", "id": [9750, "2616"], "price": 2940},
 		{"name": "diadème", "color": "Argent", "id": [6092, "17CC"], "price": 2940},
@@ -5844,6 +5908,7 @@
 		{"name": "costume de poussin", "color": "Beige", "id": [9641, "25A9"], "price": 1700},
 		{"name": "costume de poussin", "color": "Jaune", "id": [5644, "160C"], "price": 1700},
 		{"name": "costume de poussin", "color": "Bleu", "id": [9640, "25A8"], "price": 1700},
+		{"name": "costume de renne", "color": "Brun", "id": [4511, "119F"], "price": 1700},
 		{"name": "costume de rumba", "color": "Rouge", "id": [5610, "15EA"], "price": 2600},
 		{"name": "costume de rumba", "color": "Orange", "id": [11578, "2D3A"], "price": 2600},
 		{"name": "costume de rumba", "color": "Rose", "id": [11579, "2D3B"], "price": 2600},
@@ -8124,6 +8189,7 @@
 		{"name": "manteau de pirate", "color": "Bleu", "id": [7433, "1D09"], "price": 4800},
 		{"name": "manteau de pirate", "color": "Noir", "id": [7434, "1D0A"], "price": 4800},
 		{"name": "manteau de pirate", "color": "Rouge", "id": [3147, "0C4B"], "price": 4800},
+		{"name": "manteau de père Noël", "color": "Rouge", "id": [3390, "0D3E"], "price": 2600},
 		{"name": "manteau de soie", "color": "Vert", "id": [2672, "0A70"], "price": 1500},
 		{"name": "manteau de soie", "color": "Noir", "id": [9130, "23AA"], "price": 1500},
 		{"name": "manteau de soie", "color": "Rouge", "id": [9127, "23A7"], "price": 1500},
@@ -8262,7 +8328,7 @@
 		{"name": "polo à stries verticales", "color": "Rose", "id": [7777, "1E61"], "price": 960},
 		{"name": "polo à stries verticales", "color": "Vert", "id": [7778, "1E62"], "price": 960},
 		{"name": "polo à stries verticales", "color": "Gris", "id": [7779, "1E63"], "price": 960},
-		{"name": "pull solstice d'hiver", "color": "Beige", "id": [12959, "329F"], "price": 1200},
+		{"name": "pull de plein hiver", "color": "Beige", "id": [12959, "329F"], "price": 1200},
 		{"name": "pull zigzag", "color": "Rouge, vert et doré", "id": [8204, "200C"], "price": 960},
 		{"name": "queue-de-pie", "color": "Blanc", "id": [8284, "205C"], "price": 2500},
 		{"name": "queue-de-pie", "color": "Noir", "id": [4440, "1158"], "price": 2500},
