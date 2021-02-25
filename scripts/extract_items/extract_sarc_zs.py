@@ -13,7 +13,7 @@ file_filter = (sys.argv[3] if len(sys.argv) > 3 else '')
 
 files = (lambda path: [os.path.join(path, x) for x in os.listdir(path) if x.endswith('sarc.zs') and x.startswith(file_filter)])(file_path)
 for file in files:
-	archive = sarc.SARC(zstandard.ZstdDecompressor().decompress(open(file, 'rb').read()))
+	archive = sarc.SARC(zstandard.decompress(open(file, 'rb').read()))
 	
 	for file_name in archive.list_files():
 		folders = file_name.split('/')
