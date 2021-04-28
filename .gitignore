@@ -141,3 +141,4 @@ cython_debug/
 *.sarc.zs
 scripts/extract_items/Bcsv_out/
 scripts/extract_items/Message_unpack/
+scripts/extract_items/Message/
